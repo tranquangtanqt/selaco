@@ -1,0 +1,184 @@
+[
+  {
+    "no": 1,
+    "hiragana": "いります",
+    "kanji": "要ります",
+    "romanji": "",
+    "translate": "Cần"
+  },
+  {
+    "no": 1,
+    "hiragana": "じしょがいります",
+    "kanji": "辞書が要ります",
+    "romanji": "",
+    "translate": "Cần từ điển"
+  },
+  {
+    "no": 1,
+    "hiragana": "ぼく",
+    "kanji": "僕",
+    "romanji": "",
+    "translate": "Tôi, tớ, mình (từ thay cho 私 khi đàn ông tự xưng một cách tự nhiên trong không khí thân mật)"
+  },
+  {
+    "no": 1,
+    "hiragana": "きみ",
+    "kanji": "君",
+    "romanji": "",
+    "translate": "Cậu (nam giới thường dùng xưng hô thân mật cho あなた)"
+  },
+  {
+    "no": 1,
+    "hiragana": "～くん",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Em, cậu (cách gọi thân mật cho　nam giới, cùng nghĩa với …さん)"
+  },
+  {
+    "no": 1,
+    "hiragana": "うん",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Ừ (cách nói tự nhiên thay choはい)"
+  },
+  {
+    "no": 1,
+    "hiragana": "ううん",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Không ( cách nói tự nhiên thay cho いいえ)"
+  },
+  {
+    "no": 1,
+    "hiragana": "こっち",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Đằng này ( cách nói tự nhiên thay cho こちら)"
+  },
+  {
+    "no": 1,
+    "hiragana": "そっち",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Đằng đó (cách nói tự nhiên thay cho そちら)"
+  },
+  {
+    "no": 1,
+    "hiragana": "あっち",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Đằng kia (cách nói tự nhiên thay cho あちら)"
+  },
+  {
+    "no": 1,
+    "hiragana": "ばしょ",
+    "kanji": "場所",
+    "romanji": "",
+    "translate": "Địa điểm"
+  },
+  {
+    "no": 1,
+    "hiragana": "まっているよ。",
+    "kanji": "待っているよ。",
+    "romanji": "",
+    "translate": "Mình chờ cậu đấy"
+  },
+  {
+    "no": 1,
+    "hiragana": "しらべます",
+    "kanji": "調べます",
+    "romanji": "",
+    "translate": "Điều tra"
+  },
+  {
+    "no": 1,
+    "hiragana": "なおします",
+    "kanji": "直します",
+    "romanji": "",
+    "translate": "Sửa chữa"
+  },
+  {
+    "no": 1,
+    "hiragana": "でんわします",
+    "kanji": "電話します",
+    "romanji": "",
+    "translate": "Điện thoại"
+  },
+  {
+    "no": 1,
+    "hiragana": "サラリーマン",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Người làm công ăn lương"
+  },
+  {
+    "no": 1,
+    "hiragana": "ぶっか",
+    "kanji": "物価",
+    "romanji": "",
+    "translate": "Vật giá, giá cả"
+  },
+  {
+    "no": 1,
+    "hiragana": "きもの",
+    "kanji": "着物",
+    "romanji": "",
+    "translate": "Kimono"
+  },
+  {
+    "no": 1,
+    "hiragana": "ビザ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Visa"
+  },
+  {
+    "no": 1,
+    "hiragana": "はじめ",
+    "kanji": "初め",
+    "romanji": "",
+    "translate": "Ban đầu, lúc đầu, đầu"
+  },
+  {
+    "no": 1,
+    "hiragana": "おわり",
+    "kanji": "終わり",
+    "romanji": "",
+    "translate": "Kết thúc"
+  },
+  {
+    "no": 1,
+    "hiragana": "このあいだ",
+    "kanji": "この間",
+    "romanji": "",
+    "translate": "Vừa rồi, mấy hôm trước"
+  },
+  {
+    "no": 1,
+    "hiragana": "みんなで",
+    "kanji": "皆で",
+    "romanji": "",
+    "translate": "Mọi người cùng"
+  },
+  {
+    "no": 1,
+    "hiragana": "～けど",
+    "kanji": "",
+    "romanji": "",
+    "translate": "~ nhưng (cách nói thân mật củaが)"
+  },
+  {
+    "no": 1,
+    "hiragana": "どうするの？",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Anh/ chị sẽ làm như thế nào."
+  },
+  {
+    "no": 1,
+    "hiragana": "どうしようかな。",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Tính sao đây nhỉ."
+  }
+]

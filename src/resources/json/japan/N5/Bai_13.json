@@ -1,0 +1,394 @@
+[
+  {
+    "no": 1,
+    "hiragana": "あそびます",
+    "kanji": "遊びます",
+    "romanji": "",
+    "translate": "Chơi, đi chơi"
+  },
+  {
+    "no": 1,
+    "hiragana": "おくります",
+    "kanji": "送ります",
+    "romanji": "",
+    "translate": "Gửi"
+  },
+  {
+    "no": 1,
+    "hiragana": "にもつをおくります",
+    "kanji": "荷物を送ります。",
+    "romanji": "",
+    "translate": "Gửi hàng hóa"
+  },
+  {
+    "no": 1,
+    "hiragana": "かえます",
+    "kanji": "変えます",
+    "romanji": "",
+    "translate": "Đổi, thay đổi"
+  },
+  {
+    "no": 1,
+    "hiragana": "けっこんします",
+    "kanji": "結婚します",
+    "romanji": "",
+    "translate": "Kết hôn"
+  },
+  {
+    "no": 1,
+    "hiragana": "かいものします",
+    "kanji": "買い物します",
+    "romanji": "",
+    "translate": "Mua đồ"
+  },
+  {
+    "no": 1,
+    "hiragana": "さんぽします",
+    "kanji": "散歩します",
+    "romanji": "",
+    "translate": "Đi dạo"
+  },
+  {
+    "no": 1,
+    "hiragana": "こうえんをさんぽします",
+    "kanji": "公園を散歩します",
+    "romanji": "",
+    "translate": "Đi dạo ở công viên"
+  },
+  {
+    "no": 1,
+    "hiragana": "けんぶつします",
+    "kanji": "見物します",
+    "romanji": "",
+    "translate": "Tham quan"
+  },
+  {
+    "no": 1,
+    "hiragana": "まちをけんぶつします",
+    "kanji": "町を見物します",
+    "romanji": "",
+    "translate": "Tham quan thành phố"
+  },
+  {
+    "no": 1,
+    "hiragana": "けんがくします",
+    "kanji": "見学します",
+    "romanji": "",
+    "translate": "Kiến tập"
+  },
+  {
+    "no": 1,
+    "hiragana": "こうじょうをけんがくします",
+    "kanji": "工場を見学します",
+    "romanji": "",
+    "translate": "Kiến tập ở nhà máy"
+  },
+  {
+    "no": 1,
+    "hiragana": "はいります",
+    "kanji": "入ります",
+    "romanji": "",
+    "translate": "Vào"
+  },
+  {
+    "no": 1,
+    "hiragana": "へやにはいります",
+    "kanji": "部屋に入ります",
+    "romanji": "",
+    "translate": "Vào phòng"
+  },
+  {
+    "no": 1,
+    "hiragana": "でます",
+    "kanji": "出ます",
+    "romanji": "",
+    "translate": "Ra khỏi"
+  },
+  {
+    "no": 1,
+    "hiragana": "へやをでます",
+    "kanji": "部屋を出ます",
+    "romanji": "",
+    "translate": "Ra khỏi phòng"
+  },
+  {
+    "no": 1,
+    "hiragana": "ほしい",
+    "kanji": "欲しい",
+    "romanji": "",
+    "translate": "Muốn"
+  },
+  {
+    "no": 1,
+    "hiragana": "ビデオ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Đầu video, băng video"
+  },
+  {
+    "no": 1,
+    "hiragana": "ラジカセ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Đài cassette"
+  },
+  {
+    "no": 1,
+    "hiragana": "ステレオ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Dàn máy nghe nhạc"
+  },
+  {
+    "no": 1,
+    "hiragana": "くるま",
+    "kanji": "車",
+    "romanji": "",
+    "translate": "Xe ô tô"
+  },
+  {
+    "no": 1,
+    "hiragana": "おみやげ",
+    "kanji": "お土産",
+    "romanji": "",
+    "translate": "Quà quê"
+  },
+  {
+    "no": 1,
+    "hiragana": "いつも",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Luôn luôn, thường xuyên"
+  },
+  {
+    "no": 1,
+    "hiragana": "ときどき",
+    "kanji": "時々",
+    "romanji": "",
+    "translate": "Thỉnh thoảng"
+  },
+  {
+    "no": 1,
+    "hiragana": "どこか",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Nơi nào đó"
+  },
+  {
+    "no": 1,
+    "hiragana": "なにか",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Cái gì đó"
+  },
+  {
+    "no": 1,
+    "hiragana": "いいてんきですね",
+    "kanji": "いい天気ですね",
+    "romanji": "",
+    "translate": "Thời tiết tốt nhỉ, đẹp nhỉ"
+  },
+  {
+    "no": 1,
+    "hiragana": "そうですね。",
+    "kanji": "",
+    "romanji": "",
+    "translate": "ừ, nhỉ (tán đồng, đồng ý với ý kiến của người khác)"
+  },
+  {
+    "no": 1,
+    "hiragana": "おなかがすきました",
+    "kanji": "お腹がすきました",
+    "romanji": "",
+    "translate": "(Tôi) đói rồi"
+  },
+  {
+    "no": 1,
+    "hiragana": "おなかがいぱいです",
+    "kanji": "お腹が一杯です",
+    "romanji": "",
+    "translate": "(Tôi) no rồi"
+  },
+  {
+    "no": 1,
+    "hiragana": "のどがかわきました",
+    "kanji": "喉が渇きました",
+    "romanji": "",
+    "translate": "(Tôi) khát nước"
+  },
+  {
+    "no": 1,
+    "hiragana": "そうしましょう",
+    "kanji": "",
+    "romanji": "",
+    "translate": "ừ làm thế đi (khi nhất trí với người đề nghị làm gì đó)"
+  },
+  {
+    "no": 1,
+    "hiragana": "およぎます",
+    "kanji": "泳ぎます",
+    "romanji": "",
+    "translate": "Bơi"
+  },
+  {
+    "no": 1,
+    "hiragana": "むかえます",
+    "kanji": "迎えます",
+    "romanji": "",
+    "translate": "Đón"
+  },
+  {
+    "no": 1,
+    "hiragana": "こどもをむかえます",
+    "kanji": "子供を迎えます",
+    "romanji": "",
+    "translate": "Đón con"
+  },
+  {
+    "no": 1,
+    "hiragana": "だします",
+    "kanji": "出します",
+    "romanji": "",
+    "translate": "Đưa ra"
+  },
+  {
+    "no": 1,
+    "hiragana": "てがみをだします",
+    "kanji": "手紙を出します",
+    "romanji": "",
+    "translate": "Gửi thư"
+  },
+  {
+    "no": 1,
+    "hiragana": "しょくじします",
+    "kanji": "食事します。",
+    "romanji": "",
+    "translate": "Dùng bữa, ăn uống"
+  },
+  {
+    "no": 1,
+    "hiragana": "たいへん（な）",
+    "kanji": "大変",
+    "romanji": "",
+    "translate": "Vất vả"
+  },
+  {
+    "no": 1,
+    "hiragana": "さびしい",
+    "kanji": "寂しい",
+    "romanji": "",
+    "translate": "Buồn"
+  },
+  {
+    "no": 1,
+    "hiragana": "ひろい",
+    "kanji": "広い",
+    "romanji": "",
+    "translate": "Rộng"
+  },
+  {
+    "no": 1,
+    "hiragana": "せまい",
+    "kanji": "狭い",
+    "romanji": "",
+    "translate": "Hẹp"
+  },
+  {
+    "no": 1,
+    "hiragana": "しやくしょ",
+    "kanji": "市役所",
+    "romanji": "",
+    "translate": "Tòa nhà hành chính quận"
+  },
+  {
+    "no": 1,
+    "hiragana": "プール",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Bể bơi"
+  },
+  {
+    "no": 1,
+    "hiragana": "かわ",
+    "kanji": "川",
+    "romanji": "",
+    "translate": "Sông"
+  },
+  {
+    "no": 1,
+    "hiragana": "けいざい",
+    "kanji": "経済",
+    "romanji": "",
+    "translate": "Kinh tế"
+  },
+  {
+    "no": 1,
+    "hiragana": "びじゅつ",
+    "kanji": "美術館",
+    "romanji": "",
+    "translate": "Mĩ thuật"
+  },
+  {
+    "no": 1,
+    "hiragana": "つり",
+    "kanji": "釣り",
+    "romanji": "",
+    "translate": "Việc câu cá"
+  },
+  {
+    "no": 1,
+    "hiragana": "つりをします",
+    "kanji": "釣りをします",
+    "romanji": "",
+    "translate": "Câu cá"
+  },
+  {
+    "no": 1,
+    "hiragana": "スキー",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Việc trượt tuyết"
+  },
+  {
+    "no": 1,
+    "hiragana": "スキーをします",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Trượt tuyết"
+  },
+  {
+    "no": 1,
+    "hiragana": "かいぎ",
+    "kanji": "会議",
+    "romanji": "",
+    "translate": "Cuộc họp"
+  },
+  {
+    "no": 1,
+    "hiragana": "とうろく",
+    "kanji": "登録",
+    "romanji": "",
+    "translate": "Việc đăng ký"
+  },
+  {
+    "no": 1,
+    "hiragana": "とうろくします",
+    "kanji": "登録します",
+    "romanji": "",
+    "translate": "Đăng ký"
+  },
+  {
+    "no": 1,
+    "hiragana": "しゅうまつ",
+    "kanji": "週末",
+    "romanji": "",
+    "translate": "Cuối tuần"
+  },
+  {
+    "no": 1,
+    "hiragana": "～ごろ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Khoảng～ (về thời gian)"
+  }
+]

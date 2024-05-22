@@ -1,0 +1,240 @@
+[
+  {
+    "no": 1,
+    "hiragana": "そうじします",
+    "kanji": "掃除します",
+    "romanji": "",
+    "translate": "Dọn dẹp"
+  },
+  {
+    "no": 1,
+    "hiragana": "せんたくします",
+    "kanji": "洗濯します",
+    "romanji": "",
+    "translate": "Giặt giũ"
+  },
+  {
+    "no": 1,
+    "hiragana": "とまります",
+    "kanji": "泊まります",
+    "romanji": "",
+    "translate": "Trọ lại, trú lại (khách sạn, nhà bạn)"
+  },
+  {
+    "no": 1,
+    "hiragana": "ホテルにとまります",
+    "kanji": "ホテルに泊まります",
+    "romanji": "",
+    "translate": "Trọ lại khách sạn"
+  },
+  {
+    "no": 1,
+    "hiragana": "なります",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Trở nên, trở thành"
+  },
+  {
+    "no": 1,
+    "hiragana": "すきやき",
+    "kanji": "すき焼き",
+    "romanji": "",
+    "translate": "Sukiyaki (thịt bò nấu rau)"
+  },
+  {
+    "no": 1,
+    "hiragana": "てんぷら",
+    "kanji": "天ぷら",
+    "romanji": "",
+    "translate": "Tempura (hải sản, rau tẩm bột chiên)"
+  },
+  {
+    "no": 1,
+    "hiragana": "さしみ",
+    "kanji": "刺身",
+    "romanji": "",
+    "translate": "Sashimi (gỏi ca sống)"
+  },
+  {
+    "no": 1,
+    "hiragana": "すし",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Sushi (cơm cuộn rong biển)"
+  },
+  {
+    "no": 1,
+    "hiragana": "かぶき",
+    "kanji": "歌舞伎",
+    "romanji": "",
+    "translate": "Kịch Kabuki"
+  },
+  {
+    "no": 1,
+    "hiragana": "がいこく",
+    "kanji": "外国",
+    "romanji": "",
+    "translate": "Nước ngoài"
+  },
+  {
+    "no": 1,
+    "hiragana": "ホテル",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Khách sạn"
+  },
+  {
+    "no": 1,
+    "hiragana": "いちども",
+    "kanji": "一度も",
+    "romanji": "",
+    "translate": "Chưa 1 lần nào (mang ý phủ định)"
+  },
+  {
+    "no": 1,
+    "hiragana": "ぜひ",
+    "kanji": "是非",
+    "romanji": "",
+    "translate": "Nhất định"
+  },
+  {
+    "no": 1,
+    "hiragana": "はじめて",
+    "kanji": "初めて",
+    "romanji": "",
+    "translate": "Lần đầu tiên"
+  },
+  {
+    "no": 1,
+    "hiragana": "だんだん",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Dần dần"
+  },
+  {
+    "no": 1,
+    "hiragana": "ごめください",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Có ai ở nhà không"
+  },
+  {
+    "no": 1,
+    "hiragana": "しつれいします",
+    "kanji": "失礼します",
+    "romanji": "",
+    "translate": "Xin phép, xin thất lễ"
+  },
+  {
+    "no": 1,
+    "hiragana": "そろそろ「しつれいします」",
+    "kanji": "そろそろ「失礼します」",
+    "romanji": "",
+    "translate": "Thôi, có lẽ sắp đến giờ (xin phép ra về)"
+  },
+  {
+    "no": 1,
+    "hiragana": "「きょう」はどうもありがとうございます。",
+    "kanji": "",
+    "romanji": "",
+    "translate": "(Hôm nay) thực sự rất cảm ơn."
+  },
+  {
+    "no": 1,
+    "hiragana": "のぼります",
+    "kanji": "登ります",
+    "romanji": "",
+    "translate": "Leo"
+  },
+  {
+    "no": 1,
+    "hiragana": "やまにのぼります",
+    "kanji": "山に登ります",
+    "romanji": "",
+    "translate": "Leo núi"
+  },
+  {
+    "no": 1,
+    "hiragana": "ねむい",
+    "kanji": "眠い",
+    "romanji": "",
+    "translate": "Buồn ngủ"
+  },
+  {
+    "no": 1,
+    "hiragana": "つよい",
+    "kanji": "強い",
+    "romanji": "",
+    "translate": "Mạnh "
+  },
+  {
+    "no": 1,
+    "hiragana": "よわい",
+    "kanji": "弱い",
+    "romanji": "",
+    "translate": "Yếu"
+  },
+  {
+    "no": 1,
+    "hiragana": "ちょうしがいい",
+    "kanji": "調子がいい",
+    "romanji": "",
+    "translate": "Tình trạng tốt"
+  },
+  {
+    "no": 1,
+    "hiragana": "ちょうしがわるい",
+    "kanji": "調子が悪い",
+    "romanji": "",
+    "translate": "Tình trạng xấu"
+  },
+  {
+    "no": 1,
+    "hiragana": "ちょうし",
+    "kanji": "調子",
+    "romanji": "",
+    "translate": "Tình trạng"
+  },
+  {
+    "no": 1,
+    "hiragana": "ゴルフ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Gôn"
+  },
+  {
+    "no": 1,
+    "hiragana": "すもう",
+    "kanji": "相撲",
+    "romanji": "",
+    "translate": "Sumo"
+  },
+  {
+    "no": 1,
+    "hiragana": "パチンコ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Trò Pachinko"
+  },
+  {
+    "no": 1,
+    "hiragana": "ひ",
+    "kanji": "日",
+    "romanji": "",
+    "translate": "Ngày"
+  },
+  {
+    "no": 1,
+    "hiragana": "もうすぐ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Sắp sửa"
+  },
+  {
+    "no": 1,
+    "hiragana": "おかげさまで",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Ơn trời (tôi vẫn khỏe)"
+  }
+]

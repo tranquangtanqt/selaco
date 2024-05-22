@@ -1,0 +1,359 @@
+[
+  {
+    "no": 1,
+    "hiragana": "これ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Cái này"
+  },
+  {
+    "no": 1,
+    "hiragana": "それ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Cái đó"
+  },
+  {
+    "no": 1,
+    "hiragana": "あれ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Cái kia"
+  },
+  {
+    "no": 1,
+    "hiragana": "この～",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Này ～"
+  },
+  {
+    "no": 1,
+    "hiragana": "その～",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Đó ～"
+  },
+  {
+    "no": 1,
+    "hiragana": "あの～",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Kia ～"
+  },
+  {
+    "no": 1,
+    "hiragana": "ほん",
+    "kanji": "本",
+    "romanji": "",
+    "translate": "Sách"
+  },
+  {
+    "no": 1,
+    "hiragana": "ざっし",
+    "kanji": "雑誌",
+    "romanji": "",
+    "translate": "Tạp chí"
+  },
+  {
+    "no": 1,
+    "hiragana": "じしょ",
+    "kanji": "辞書",
+    "romanji": "",
+    "translate": "Từ điển"
+  },
+  {
+    "no": 1,
+    "hiragana": "ノート",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Vở"
+  },
+  {
+    "no": 1,
+    "hiragana": "かみ",
+    "kanji": "紙",
+    "romanji": "",
+    "translate": "Giấy"
+  },
+  {
+    "no": 1,
+    "hiragana": "しんぶん",
+    "kanji": "新聞",
+    "romanji": "",
+    "translate": "Báo"
+  },
+  {
+    "no": 1,
+    "hiragana": "てがみ",
+    "kanji": "手紙",
+    "romanji": "",
+    "translate": "Thư"
+  },
+  {
+    "no": 1,
+    "hiragana": "えんぴつ",
+    "kanji": "鉛筆",
+    "romanji": "",
+    "translate": "Bút chì"
+  },
+  {
+    "no": 1,
+    "hiragana": "ボールペン",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Bút bi"
+  },
+  {
+    "no": 1,
+    "hiragana": "シャープペンシル\r\n（シャーペン）",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Bút chì kim"
+  },
+  {
+    "no": 1,
+    "hiragana": "たばこ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Thuốc lá"
+  },
+  {
+    "no": 1,
+    "hiragana": "マッチ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Diêm"
+  },
+  {
+    "no": 1,
+    "hiragana": "ライター",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Bật lửa"
+  },
+  {
+    "no": 1,
+    "hiragana": "はいざら",
+    "kanji": "灰皿",
+    "romanji": "",
+    "translate": "Gạt tàn thuốc"
+  },
+  {
+    "no": 1,
+    "hiragana": "かぎ",
+    "kanji": "鍵",
+    "romanji": "",
+    "translate": "Khóa"
+  },
+  {
+    "no": 1,
+    "hiragana": "とけい",
+    "kanji": "時計",
+    "romanji": "",
+    "translate": "Đồng hồ"
+  },
+  {
+    "no": 1,
+    "hiragana": "かばん",
+    "kanji": "鞄",
+    "romanji": "",
+    "translate": "Cặp"
+  },
+  {
+    "no": 1,
+    "hiragana": "はこ",
+    "kanji": "箱",
+    "romanji": "",
+    "translate": "Hộp, hòm"
+  },
+  {
+    "no": 1,
+    "hiragana": "テープレコーダー",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Máy ghi âm"
+  },
+  {
+    "no": 1,
+    "hiragana": "でんわ",
+    "kanji": "電話",
+    "romanji": "",
+    "translate": "Điện thoại"
+  },
+  {
+    "no": 1,
+    "hiragana": "いす",
+    "kanji": "椅子",
+    "romanji": "",
+    "translate": "Ghế"
+  },
+  {
+    "no": 1,
+    "hiragana": "つくえ",
+    "kanji": "机",
+    "romanji": "",
+    "translate": "Bàn"
+  },
+  {
+    "no": 1,
+    "hiragana": "まど",
+    "kanji": "窓",
+    "romanji": "",
+    "translate": "Cửa sổ"
+  },
+  {
+    "no": 1,
+    "hiragana": "ドア",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Cửa chính"
+  },
+  {
+    "no": 1,
+    "hiragana": "ラジオ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Đài"
+  },
+  {
+    "no": 1,
+    "hiragana": "テレビ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Tivi"
+  },
+  {
+    "no": 1,
+    "hiragana": "カメラ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Máy ảnh"
+  },
+  {
+    "no": 1,
+    "hiragana": "なん",
+    "kanji": "何",
+    "romanji": "",
+    "translate": "Cái gì"
+  },
+  {
+    "no": 1,
+    "hiragana": "そう",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Đúng, phải vậy"
+  },
+  {
+    "no": 1,
+    "hiragana": "おねがいします",
+    "kanji": "お願いします",
+    "romanji": "",
+    "translate": "Làm ơn, nhờ phiền ông, bà."
+  },
+  {
+    "no": 1,
+    "hiragana": "どうぞ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Xin mời"
+  },
+  {
+    "no": 1,
+    "hiragana": "どうもありがとうございます。",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Xin rất cảm ơn"
+  },
+  {
+    "no": 1,
+    "hiragana": "あ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "À, ái chà, ối chào…"
+  },
+  {
+    "no": 1,
+    "hiragana": "ちょっと",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Một chút"
+  },
+  {
+    "no": 1,
+    "hiragana": "まってください。",
+    "kanji": "待ってください。",
+    "romanji": "",
+    "translate": "Xin chờ"
+  },
+  {
+    "no": 1,
+    "hiragana": "ちがいます。",
+    "kanji": "違います。",
+    "romanji": "",
+    "translate": "Sai rồi, không phải"
+  },
+  {
+    "no": 1,
+    "hiragana": "てちょう",
+    "kanji": "手帳",
+    "romanji": "",
+    "translate": "Sổ tay"
+  },
+  {
+    "no": 1,
+    "hiragana": "めいし",
+    "kanji": "名刺",
+    "romanji": "",
+    "translate": "Danh thiếp"
+  },
+  {
+    "no": 1,
+    "hiragana": "カード",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Thẻ, cạc"
+  },
+  {
+    "no": 1,
+    "hiragana": "テレホンカード",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Thẻ điện thoại"
+  },
+  {
+    "no": 1,
+    "hiragana": "かさ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Ô"
+  },
+  {
+    "no": 1,
+    "hiragana": "チョコレート",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Socola"
+  },
+  {
+    "no": 1,
+    "hiragana": "あのう",
+    "kanji": "",
+    "romanji": "",
+    "translate": "À..ờ...(dùng để biểu thị sự do dự)"
+  },
+  {
+    "no": 1,
+    "hiragana": "ほんのきもちです。",
+    "kanji": "本の気持ちです。",
+    "romanji": "",
+    "translate": "Chỉ là chút lòng thành."
+  },
+  {
+    "no": 1,
+    "hiragana": "しごと",
+    "kanji": "仕事",
+    "romanji": "",
+    "translate": "Công việc"
+  }
+]

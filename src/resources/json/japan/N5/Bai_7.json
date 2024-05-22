@@ -1,0 +1,443 @@
+[
+  {
+    "no": 1,
+    "hiragana": "きります",
+    "kanji": "切ります",
+    "romanji": "",
+    "translate": "Cắt"
+  },
+  {
+    "no": 1,
+    "hiragana": "しゅうりします",
+    "kanji": "修理します",
+    "romanji": "",
+    "translate": "Sửa chữa"
+  },
+  {
+    "no": 1,
+    "hiragana": "かけます",
+    "kanji": "掛けます",
+    "romanji": "",
+    "translate": "Gọi điện"
+  },
+  {
+    "no": 1,
+    "hiragana": "でんわをかけます",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Gọi điện thoại"
+  },
+  {
+    "no": 1,
+    "hiragana": "あげます",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Tặng"
+  },
+  {
+    "no": 1,
+    "hiragana": "もらいます",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Nhận"
+  },
+  {
+    "no": 1,
+    "hiragana": "おしえます",
+    "kanji": "教えます",
+    "romanji": "",
+    "translate": "Dạy, chỉ bảo"
+  },
+  {
+    "no": 1,
+    "hiragana": "ならいます",
+    "kanji": "習います",
+    "romanji": "",
+    "translate": "Học"
+  },
+  {
+    "no": 1,
+    "hiragana": "かします",
+    "kanji": "貸します",
+    "romanji": "",
+    "translate": "Cho mượn"
+  },
+  {
+    "no": 1,
+    "hiragana": "かります",
+    "kanji": "借ります",
+    "romanji": "",
+    "translate": "Mượn"
+  },
+  {
+    "no": 1,
+    "hiragana": "はし",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Đũa "
+  },
+  {
+    "no": 1,
+    "hiragana": "ナイフ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Dao"
+  },
+  {
+    "no": 1,
+    "hiragana": "フォーク",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Nĩa"
+  },
+  {
+    "no": 1,
+    "hiragana": "スプーン",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Thìa"
+  },
+  {
+    "no": 1,
+    "hiragana": "はさみ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Kéo"
+  },
+  {
+    "no": 1,
+    "hiragana": "ドライバー",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Tua vít"
+  },
+  {
+    "no": 1,
+    "hiragana": "スパナ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Chìa vặn ốc"
+  },
+  {
+    "no": 1,
+    "hiragana": "ペンチ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Cái kìm"
+  },
+  {
+    "no": 1,
+    "hiragana": "おかね",
+    "kanji": "お金",
+    "romanji": "",
+    "translate": "Tiền"
+  },
+  {
+    "no": 1,
+    "hiragana": "プレゼント",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Quà, tặng phẩm"
+  },
+  {
+    "no": 1,
+    "hiragana": "レポート",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Báo cáo"
+  },
+  {
+    "no": 1,
+    "hiragana": "かぞく",
+    "kanji": "家族",
+    "romanji": "",
+    "translate": "Gia đình"
+  },
+  {
+    "no": 1,
+    "hiragana": "おとうさん",
+    "kanji": "お父さん",
+    "romanji": "",
+    "translate": "Bố người khác"
+  },
+  {
+    "no": 1,
+    "hiragana": "おかあさん",
+    "kanji": "お母さん",
+    "romanji": "",
+    "translate": "Mẹ người khác"
+  },
+  {
+    "no": 1,
+    "hiragana": "おにいさん",
+    "kanji": "お兄さん",
+    "romanji": "",
+    "translate": "Anh người khác"
+  },
+  {
+    "no": 1,
+    "hiragana": "おねえさん",
+    "kanji": "お姉さん",
+    "romanji": "",
+    "translate": "Chị người khác"
+  },
+  {
+    "no": 1,
+    "hiragana": "おとうとさん",
+    "kanji": "弟さん",
+    "romanji": "",
+    "translate": "Em trai người khác"
+  },
+  {
+    "no": 1,
+    "hiragana": "いもうとさん",
+    "kanji": "妹さん",
+    "romanji": "",
+    "translate": "Em gái người khác"
+  },
+  {
+    "no": 1,
+    "hiragana": "おくさん",
+    "kanji": "奥さん",
+    "romanji": "",
+    "translate": "Vợ (của người khác)"
+  },
+  {
+    "no": 1,
+    "hiragana": "かない",
+    "kanji": "家内",
+    "romanji": "",
+    "translate": "Vợ (của mình)"
+  },
+  {
+    "no": 1,
+    "hiragana": "しゅじん",
+    "kanji": "主人",
+    "romanji": "",
+    "translate": "Chồng (của mình)"
+  },
+  {
+    "no": 1,
+    "hiragana": "ごしゅじん",
+    "kanji": "ご主人",
+    "romanji": "",
+    "translate": "Chồng (của người khác)"
+  },
+  {
+    "no": 1,
+    "hiragana": "こども",
+    "kanji": "子供",
+    "romanji": "",
+    "translate": "Con cái, trẻ con"
+  },
+  {
+    "no": 1,
+    "hiragana": "えいご",
+    "kanji": "英語",
+    "romanji": "",
+    "translate": "Tiếng Anh"
+  },
+  {
+    "no": 1,
+    "hiragana": "にほんご",
+    "kanji": "日本語",
+    "romanji": "",
+    "translate": "Tiếng Nhật"
+  },
+  {
+    "no": 1,
+    "hiragana": "～ご",
+    "kanji": "～語",
+    "romanji": "",
+    "translate": "Tiếng～"
+  },
+  {
+    "no": 1,
+    "hiragana": "もう",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Đã … rồi"
+  },
+  {
+    "no": 1,
+    "hiragana": "まだ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Vẫn… chưa"
+  },
+  {
+    "no": 1,
+    "hiragana": "これから",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Từ nay trở đi, từ bây giờ trở đi"
+  },
+  {
+    "no": 1,
+    "hiragana": "おめでとうございます。",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Xin chúc mừng (sinh nhật, cưới hỏi…)"
+  },
+  {
+    "no": 1,
+    "hiragana": "わあ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Ái chà, ủa (biểu thị sự ngạc nhiên)"
+  },
+  {
+    "no": 1,
+    "hiragana": "どういたしまして。",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Không có gì, không có chi"
+  },
+  {
+    "no": 1,
+    "hiragana": "いい「シャツ」ですね。",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Áo sơ mi đẹp đấy, được đấy."
+  },
+  {
+    "no": 1,
+    "hiragana": "おくります",
+    "kanji": "送ります",
+    "romanji": "",
+    "translate": "Gửi"
+  },
+  {
+    "no": 1,
+    "hiragana": "て",
+    "kanji": "手",
+    "romanji": "",
+    "translate": "Tay"
+  },
+  {
+    "no": 1,
+    "hiragana": "ファクス／ファックス",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Máy fax"
+  },
+  {
+    "no": 1,
+    "hiragana": "ワープロ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Máy đánh chữ"
+  },
+  {
+    "no": 1,
+    "hiragana": "パソコン",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Máy tính cá nhân"
+  },
+  {
+    "no": 1,
+    "hiragana": "はな",
+    "kanji": "花",
+    "romanji": "",
+    "translate": "Hoa"
+  },
+  {
+    "no": 1,
+    "hiragana": "プレゼント",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Quà, tặng phẩm"
+  },
+  {
+    "no": 1,
+    "hiragana": "にもつ",
+    "kanji": "荷物",
+    "romanji": "",
+    "translate": "Hàng hóa"
+  },
+  {
+    "no": 1,
+    "hiragana": "かみ",
+    "kanji": "紙",
+    "romanji": "",
+    "translate": "Giấy"
+  },
+  {
+    "no": 1,
+    "hiragana": "りょこう",
+    "kanji": "旅行",
+    "romanji": "",
+    "translate": "Du lịch"
+  },
+  {
+    "no": 1,
+    "hiragana": "クリスマス",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Giáng sinh"
+  },
+  {
+    "no": 1,
+    "hiragana": "ちち",
+    "kanji": "父",
+    "romanji": "",
+    "translate": "Bố của mình"
+  },
+  {
+    "no": 1,
+    "hiragana": "はは",
+    "kanji": "母",
+    "romanji": "",
+    "translate": "Mẹ của mình"
+  },
+  {
+    "no": 1,
+    "hiragana": "あに",
+    "kanji": "兄",
+    "romanji": "",
+    "translate": "Anh trai của mình"
+  },
+  {
+    "no": 1,
+    "hiragana": "あね",
+    "kanji": "姉",
+    "romanji": "",
+    "translate": "Chị gái của mình"
+  },
+  {
+    "no": 1,
+    "hiragana": "おとうと",
+    "kanji": "弟",
+    "romanji": "",
+    "translate": "E trai của mình"
+  },
+  {
+    "no": 1,
+    "hiragana": "いもうと",
+    "kanji": "妹",
+    "romanji": "",
+    "translate": "E gái của mình"
+  },
+  {
+    "no": 1,
+    "hiragana": "「。。。。」すてきですね。",
+    "kanji": "",
+    "romanji": "",
+    "translate": "... Tuyệt nhỉ/hay nhỉ"
+  },
+  {
+    "no": 1,
+    "hiragana": "ごめんください。",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Xin lỗi có ai ở nhà không (câu nói của khách khi đến thăm gõ cửa nhà người khác)."
+  },
+  {
+    "no": 1,
+    "hiragana": "いらっしゃい。",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Rất hoan nghênh anh/chị đến chơi. Mời anh/ chị vào nhà."
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "no": 1,
+    "hiragana": "かんがえます",
+    "kanji": "考えます",
+    "romanji": "",
+    "translate": "Cố gắng"
+  },
+  {
+    "no": 1,
+    "hiragana": "つづけます",
+    "kanji": "続けます",
+    "romanji": "",
+    "translate": "Tiếp tục"
+  },
+  {
+    "no": 1,
+    "hiragana": "やめます",
+    "kanji": "辞めます",
+    "romanji": "",
+    "translate": "Bỏ, thôi"
+  },
+  {
+    "no": 1,
+    "hiragana": "しごとをやめます",
+    "kanji": "仕事を辞めます",
+    "romanji": "",
+    "translate": "Nghỉ việc, bỏ việc"
+  },
+  {
+    "no": 1,
+    "hiragana": "スイッチをいれます",
+    "kanji": "スイッチを入れます",
+    "romanji": "",
+    "translate": "Bật công tắc"
+  },
+  {
+    "no": 1,
+    "hiragana": "スイッチをきります",
+    "kanji": "スイッチを切ります",
+    "romanji": "",
+    "translate": "Ngắt công tắc"
+  },
+  {
+    "no": 1,
+    "hiragana": "かたづけます",
+    "kanji": "片付けます",
+    "romanji": "",
+    "translate": "Dọn dẹp, sắp xếp"
+  },
+  {
+    "no": 1,
+    "hiragana": "なおします",
+    "kanji": "直します",
+    "romanji": "",
+    "translate": "Sửa chữa"
+  },
+  {
+    "no": 1,
+    "hiragana": "まちがいをなおします",
+    "kanji": "間違いを直します",
+    "romanji": "",
+    "translate": "Sửa sai, sửa lỗi sai"
+  },
+  {
+    "no": 1,
+    "hiragana": "まちがい",
+    "kanji": "間違い",
+    "romanji": "",
+    "translate": "Sai, nhầm"
+  },
+  {
+    "no": 1,
+    "hiragana": "どうぐ",
+    "kanji": "道具",
+    "romanji": "",
+    "translate": "Dụng cụ, công cụ"
+  },
+  {
+    "no": 1,
+    "hiragana": "いっぱんけんしゅう",
+    "kanji": "一般研修",
+    "romanji": "",
+    "translate": "Tu nghiệp tổng quát"
+  },
+  {
+    "no": 1,
+    "hiragana": "ピクニック",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Picnic"
+  },
+  {
+    "no": 1,
+    "hiragana": "せかい",
+    "kanji": "世界",
+    "romanji": "",
+    "translate": "Thế giới"
+  },
+  {
+    "no": 1,
+    "hiragana": "こまったこと",
+    "kanji": "困った事",
+    "romanji": "",
+    "translate": "Chuyện khó khăn, phiền toái"
+  },
+  {
+    "no": 1,
+    "hiragana": "もし「～たら」",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Nếu ( ~ thì )"
+  },
+  {
+    "no": 1,
+    "hiragana": "いくら「～くても」",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Cho dù, dù ( ~ bao nhiêu cũng)"
+  },
+  {
+    "no": 1,
+    "hiragana": "いつでも",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Lúc nào cũng"
+  },
+  {
+    "no": 1,
+    "hiragana": "「いろいろ」おせわになりました。",
+    "kanji": "「いろいろ」お世話になりました。",
+    "romanji": "",
+    "translate": "Xin cảm ơn vì tất cả những gì mà anh chị đã giúp đỡ"
+  },
+  {
+    "no": 1,
+    "hiragana": "どうぞ、おげんきで",
+    "kanji": "どうぞ、お元気で",
+    "romanji": "",
+    "translate": "Chúc sức khỏe (lời chào khi chia tay mà không thể gặp nhau trong một thời gian dài)"
+  },
+  {
+    "no": 1,
+    "hiragana": "つきます",
+    "kanji": "着きます",
+    "romanji": "",
+    "translate": "Tới"
+  },
+  {
+    "no": 1,
+    "hiragana": "えきにつきます",
+    "kanji": "駅に着きます",
+    "romanji": "",
+    "translate": "Tới nhà ga"
+  },
+  {
+    "no": 1,
+    "hiragana": "りゅうがくします",
+    "kanji": "留学します",
+    "romanji": "",
+    "translate": "Du học"
+  },
+  {
+    "no": 1,
+    "hiragana": "としをとります",
+    "kanji": "年を取ります",
+    "romanji": "",
+    "translate": "Thêm tuổi, có tuổi"
+  },
+  {
+    "no": 1,
+    "hiragana": "いなか",
+    "kanji": "田舎",
+    "romanji": "",
+    "translate": "Làng quê, nông thôn"
+  },
+  {
+    "no": 1,
+    "hiragana": "たいしかん",
+    "kanji": "大使館",
+    "romanji": "",
+    "translate": "Đại sứ quán"
+  },
+  {
+    "no": 1,
+    "hiragana": "グループ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Nhóm"
+  },
+  {
+    "no": 1,
+    "hiragana": "チャンス",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Cơ hội"
+  },
+  {
+    "no": 1,
+    "hiragana": "いちおく",
+    "kanji": "",
+    "romanji": "",
+    "translate": "100 triệu"
+  },
+  {
+    "no": 1,
+    "hiragana": "てんきん",
+    "kanji": "転勤",
+    "romanji": "",
+    "translate": "Việc chuyển địa điểm làm việc"
+  },
+  {
+    "no": 1,
+    "hiragana": "てんきんします",
+    "kanji": "転勤します",
+    "romanji": "",
+    "translate": "Chuyển địa điểm làm việc"
+  },
+  {
+    "no": 1,
+    "hiragana": "いっぱいのみましょう。",
+    "kanji": "一杯飲みましょう。",
+    "romanji": "",
+    "translate": "Chúng ta uống 1 ly nhé"
+  }
+]

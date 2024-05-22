@@ -1,0 +1,65 @@
+{
+  "name": "selaco",
+  "version": "0.1.0",
+  "homepage": "https://tranquangtanqt.github.io/selaco",
+  "private": true,
+  "dependencies": {
+    "@monaco-editor/react": "4.6.0",
+    "@types/jest": "27.5.2",
+    "@types/jquery": "3.5.14",
+    "@types/node": "16.11.59",
+    "@types/react": "18.0.20",
+    "@types/react-dom": "18.0.6",
+    "@types/xlsx": "0.0.36",
+    "axios": "0.27.2",
+    "file-saver": "2.0.5",
+    "html-react-parser": "^5.1.10",
+    "jquery": "3.6.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-prism-editor": "1.1.2",
+    "react-router-dom": "6.4.0",
+    "react-scripts": "5.0.1",
+    "typescript": "4.8.3",
+    "use-google-sheets": "2.0.0"
+  },
+  "engines": {
+    "node": "14.21.2 || >=16.0.0"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "set PORT=3005 && react-scripts start",
+    "build": "react-scripts build",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test1": "react-scripts test",
+    "eject": "react-scripts eject",
+    "lint": "eslint \"{src,apps,libs,test}/**/*.ts\" --fix",
+    "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\""
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "eslint": "8.42.0",
+    "eslint-config-prettier": "8.8.0",
+    "eslint-plugin-prettier": "4.2.1",
+    "gh-pages": "4.0.0",
+    "prettier": "2.8.8"
+  }
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "no": 1,
+    "hiragana": "ていしょく",
+    "kanji": "定食",
+    "romanji": "",
+    "translate": "Cơm suất "
+  },
+  {
+    "no": 1,
+    "hiragana": "べんとう",
+    "kanji": "弁当",
+    "romanji": "",
+    "translate": "Cơm phần"
+  },
+  {
+    "no": 1,
+    "hiragana": "ランチ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Com trưa"
+  },
+  {
+    "no": 1,
+    "hiragana": "やきめし（チャーハン）",
+    "kanji": "焼き飯",
+    "romanji": "",
+    "translate": "Cơm rang"
+  },
+  {
+    "no": 1,
+    "hiragana": "ぎゅうどん",
+    "kanji": "牛丼",
+    "romanji": "",
+    "translate": "Món gyudon"
+  },
+  {
+    "no": 1,
+    "hiragana": "おかゆ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Cơm thịt bò"
+  },
+  {
+    "no": 1,
+    "hiragana": "カレーライス",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Cơm cari"
+  },
+  {
+    "no": 1,
+    "hiragana": "うどん",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Mì udon"
+  },
+  {
+    "no": 1,
+    "hiragana": "そば",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Mì soba"
+  },
+  {
+    "no": 1,
+    "hiragana": "やきそば",
+    "kanji": "焼きそば",
+    "romanji": "",
+    "translate": "Mì xào"
+  },
+  {
+    "no": 1,
+    "hiragana": "ラーメン",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Mì ramen (mỳ nước)"
+  },
+  {
+    "no": 1,
+    "hiragana": "スパゲッティ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Spaghetti"
+  },
+  {
+    "no": 1,
+    "hiragana": "やきにく",
+    "kanji": "焼肉",
+    "romanji": "",
+    "translate": "Thịt nướng"
+  },
+  {
+    "no": 1,
+    "hiragana": "やきさかな",
+    "kanji": "焼魚",
+    "romanji": "",
+    "translate": "Cá nướng"
+  },
+  {
+    "no": 1,
+    "hiragana": "めだまやき",
+    "kanji": "目玉焼き",
+    "romanji": "",
+    "translate": "Trứng ốp la"
+  },
+  {
+    "no": 1,
+    "hiragana": "ゆでたまご",
+    "kanji": "ゆで卵",
+    "romanji": "",
+    "translate": "Trứng luộc"
+  },
+  {
+    "no": 1,
+    "hiragana": "やさいいため",
+    "kanji": "野菜炒め",
+    "romanji": "",
+    "translate": "Rau xào"
+  },
+  {
+    "no": 1,
+    "hiragana": "えびライス",
+    "kanji": "蝦ライス",
+    "romanji": "",
+    "translate": "Tôm rán tẩm bột"
+  },
+  {
+    "no": 1,
+    "hiragana": "トースト",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Bánh mì nướng"
+  },
+  {
+    "no": 1,
+    "hiragana": "サンドイッチ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Sandwich"
+  },
+  {
+    "no": 1,
+    "hiragana": "つけもの",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Dưa, dưa muối"
+  },
+  {
+    "no": 1,
+    "hiragana": "サラダ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Salad"
+  },
+  {
+    "no": 1,
+    "hiragana": "みそしる",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Canh miso"
+  },
+  {
+    "no": 1,
+    "hiragana": "スープ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Súp, canh"
+  }
+]

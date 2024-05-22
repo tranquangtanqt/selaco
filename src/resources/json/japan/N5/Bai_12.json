@@ -1,0 +1,380 @@
+[
+  {
+    "no": 1,
+    "hiragana": "ひま（な）",
+    "kanji": "暇",
+    "romanji": "",
+    "translate": "Rãnh rỗi"
+  },
+  {
+    "no": 1,
+    "hiragana": "いそがしい",
+    "kanji": "忙しい",
+    "romanji": "",
+    "translate": "Bận rộn"
+  },
+  {
+    "no": 1,
+    "hiragana": "ちかい",
+    "kanji": "近い",
+    "romanji": "",
+    "translate": "Gần"
+  },
+  {
+    "no": 1,
+    "hiragana": "とおい",
+    "kanji": "遠い",
+    "romanji": "",
+    "translate": "Xa"
+  },
+  {
+    "no": 1,
+    "hiragana": "はやい",
+    "kanji": "早い",
+    "romanji": "",
+    "translate": "Nhanh"
+  },
+  {
+    "no": 1,
+    "hiragana": "おそい",
+    "kanji": "遅い",
+    "romanji": "",
+    "translate": "Chậm"
+  },
+  {
+    "no": 1,
+    "hiragana": "おおい",
+    "kanji": "多い",
+    "romanji": "",
+    "translate": "Nhiều"
+  },
+  {
+    "no": 1,
+    "hiragana": "ひとがおおい",
+    "kanji": "人が多い",
+    "romanji": "",
+    "translate": "Nhiều người"
+  },
+  {
+    "no": 1,
+    "hiragana": "すくない",
+    "kanji": "少ない",
+    "romanji": "",
+    "translate": "Ít"
+  },
+  {
+    "no": 1,
+    "hiragana": "ひとがすくない",
+    "kanji": "人が少ない",
+    "romanji": "",
+    "translate": "Ít người"
+  },
+  {
+    "no": 1,
+    "hiragana": "あたたかい",
+    "kanji": "暖かい",
+    "romanji": "",
+    "translate": "Ấm"
+  },
+  {
+    "no": 1,
+    "hiragana": "すずしい",
+    "kanji": "涼しい",
+    "romanji": "",
+    "translate": "Mát mẻ"
+  },
+  {
+    "no": 1,
+    "hiragana": "あまい",
+    "kanji": "甘い",
+    "romanji": "",
+    "translate": "Ngọt"
+  },
+  {
+    "no": 1,
+    "hiragana": "からい",
+    "kanji": "辛い",
+    "romanji": "",
+    "translate": "Cay"
+  },
+  {
+    "no": 1,
+    "hiragana": "たのしい",
+    "kanji": "楽しい",
+    "romanji": "",
+    "translate": "Vui vẻ"
+  },
+  {
+    "no": 1,
+    "hiragana": "わかい",
+    "kanji": "若い",
+    "romanji": "",
+    "translate": "Trẻ"
+  },
+  {
+    "no": 1,
+    "hiragana": "いい",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Ngon"
+  },
+  {
+    "no": 1,
+    "hiragana": "コーヒーがいい",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Cafe ngon"
+  },
+  {
+    "no": 1,
+    "hiragana": "てんき",
+    "kanji": "天気",
+    "romanji": "",
+    "translate": "Thời tiết"
+  },
+  {
+    "no": 1,
+    "hiragana": "あめ",
+    "kanji": "雨",
+    "romanji": "",
+    "translate": "Mưa"
+  },
+  {
+    "no": 1,
+    "hiragana": "ゆき",
+    "kanji": "雪",
+    "romanji": "",
+    "translate": "Tuyết"
+  },
+  {
+    "no": 1,
+    "hiragana": "くもり",
+    "kanji": "曇り",
+    "romanji": "",
+    "translate": "Mây"
+  },
+  {
+    "no": 1,
+    "hiragana": "やすみ",
+    "kanji": "休み",
+    "romanji": "",
+    "translate": "Nghỉ ngơi"
+  },
+  {
+    "no": 1,
+    "hiragana": "りょこう",
+    "kanji": "旅行",
+    "romanji": "",
+    "translate": "Du lịch"
+  },
+  {
+    "no": 1,
+    "hiragana": "パーティー",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Bữa tiệc"
+  },
+  {
+    "no": 1,
+    "hiragana": "みせ",
+    "kanji": "店",
+    "romanji": "",
+    "translate": "Cửa hàng"
+  },
+  {
+    "no": 1,
+    "hiragana": "クラス",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Lớp học"
+  },
+  {
+    "no": 1,
+    "hiragana": "どちら",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Chỗ nào, đằng nào"
+  },
+  {
+    "no": 1,
+    "hiragana": "いちばん",
+    "kanji": "一番",
+    "romanji": "",
+    "translate": "Nhất"
+  },
+  {
+    "no": 1,
+    "hiragana": "とても",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Rất"
+  },
+  {
+    "no": 1,
+    "hiragana": "ずっと",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Xuyên suốt, suốt"
+  },
+  {
+    "no": 1,
+    "hiragana": "ただいま",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Tôi về rồi đây (lời chào khi về nhà)."
+  },
+  {
+    "no": 1,
+    "hiragana": "おかえりなさい",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Anh/ chị đã về à (người ở nhà chào người đi ra ngoài về)"
+  },
+  {
+    "no": 1,
+    "hiragana": "つかれました",
+    "kanji": "疲れました",
+    "romanji": "",
+    "translate": "Mệt rồi, đã mệt"
+  },
+  {
+    "no": 1,
+    "hiragana": "すてき（な）",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Đẹp, hay, tuyệt vời"
+  },
+  {
+    "no": 1,
+    "hiragana": "おもい",
+    "kanji": "重い",
+    "romanji": "",
+    "translate": "Nặng"
+  },
+  {
+    "no": 1,
+    "hiragana": "かるい",
+    "kanji": "軽い",
+    "romanji": "",
+    "translate": "Nhẹ"
+  },
+  {
+    "no": 1,
+    "hiragana": "きせつ",
+    "kanji": "季節",
+    "romanji": "",
+    "translate": "Mùa"
+  },
+  {
+    "no": 1,
+    "hiragana": "はる",
+    "kanji": "春",
+    "romanji": "",
+    "translate": "Mùa xuân"
+  },
+  {
+    "no": 1,
+    "hiragana": "なつ",
+    "kanji": "夏",
+    "romanji": "",
+    "translate": "Mùa hè"
+  },
+  {
+    "no": 1,
+    "hiragana": "あき",
+    "kanji": "秋",
+    "romanji": "",
+    "translate": "Mùa thu"
+  },
+  {
+    "no": 1,
+    "hiragana": "ふゆ",
+    "kanji": "冬",
+    "romanji": "",
+    "translate": "Mùa đông"
+  },
+  {
+    "no": 1,
+    "hiragana": "ホテル",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Khách sạn"
+  },
+  {
+    "no": 1,
+    "hiragana": "くうこう",
+    "kanji": "空港",
+    "romanji": "",
+    "translate": "Sân bay"
+  },
+  {
+    "no": 1,
+    "hiragana": "うみ",
+    "kanji": "海",
+    "romanji": "",
+    "translate": "Biển"
+  },
+  {
+    "no": 1,
+    "hiragana": "（お）まつり",
+    "kanji": "（お）祭り",
+    "romanji": "",
+    "translate": "Lễ hội"
+  },
+  {
+    "no": 1,
+    "hiragana": "すきやき",
+    "kanji": "すき焼き",
+    "romanji": "",
+    "translate": "Sukiyaki (thịt bò nấu rau)"
+  },
+  {
+    "no": 1,
+    "hiragana": "さしみ",
+    "kanji": "刺身",
+    "romanji": "",
+    "translate": "Sashimi (món gỏi cá sống)"
+  },
+  {
+    "no": 1,
+    "hiragana": "すし",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Sushi (cơm cuộn rong biển)"
+  },
+  {
+    "no": 1,
+    "hiragana": "てんぷら",
+    "kanji": "天ぷら",
+    "romanji": "",
+    "translate": "Tempura (món hải sản và rau củ tẩm bột chiên)"
+  },
+  {
+    "no": 1,
+    "hiragana": "いけばな",
+    "kanji": "生け花",
+    "romanji": "",
+    "translate": "Nghệ thuật cắm hoa"
+  },
+  {
+    "no": 1,
+    "hiragana": "もみじ",
+    "kanji": "紅葉",
+    "romanji": "",
+    "translate": "Lá đỏ"
+  },
+  {
+    "no": 1,
+    "hiragana": "はじめて",
+    "kanji": "初めて",
+    "romanji": "",
+    "translate": "Lần đầu tiên"
+  },
+  {
+    "no": 1,
+    "hiragana": "すごいですね",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Ghê quá nhỉ, hay quá nhỉ (hàm ý khen, ngưỡng mộ)."
+  }
+]

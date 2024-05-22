@@ -1,0 +1,282 @@
+[
+  {
+    "no": 1,
+    "hiragana": "ききます",
+    "kanji": "聞きます",
+    "romanji": "",
+    "translate": "Hỏi"
+  },
+  {
+    "no": 1,
+    "hiragana": "せんせいにききます",
+    "kanji": "先生に聞きます",
+    "romanji": "",
+    "translate": "Hỏi giáo viên"
+  },
+  {
+    "no": 1,
+    "hiragana": "おします",
+    "kanji": "押します",
+    "romanji": "",
+    "translate": "Ấn, đẩy"
+  },
+  {
+    "no": 1,
+    "hiragana": "まわします",
+    "kanji": "回します",
+    "romanji": "",
+    "translate": "Chuyển động, xoay"
+  },
+  {
+    "no": 1,
+    "hiragana": "うごきます",
+    "kanji": "動きます",
+    "romanji": "",
+    "translate": "Hoạt động, chuyển động"
+  },
+  {
+    "no": 1,
+    "hiragana": "きかいがうごきます",
+    "kanji": "機械が動きます",
+    "romanji": "",
+    "translate": "Máy hoạt động"
+  },
+  {
+    "no": 1,
+    "hiragana": "とまります",
+    "kanji": "止まります",
+    "romanji": "",
+    "translate": "Dừng, ngừng"
+  },
+  {
+    "no": 1,
+    "hiragana": "きかいがとまります",
+    "kanji": "機械が止まります",
+    "romanji": "",
+    "translate": "Máy dừng hoạt động"
+  },
+  {
+    "no": 1,
+    "hiragana": "でます",
+    "kanji": "出ます",
+    "romanji": "",
+    "translate": "Ra"
+  },
+  {
+    "no": 1,
+    "hiragana": "きっぷがでます",
+    "kanji": "切符が出ます",
+    "romanji": "",
+    "translate": "Vé ra"
+  },
+  {
+    "no": 1,
+    "hiragana": "ちょうせつします",
+    "kanji": "調節します",
+    "romanji": "",
+    "translate": "Điều chỉnh"
+  },
+  {
+    "no": 1,
+    "hiragana": "こまります",
+    "kanji": "困ります",
+    "romanji": "",
+    "translate": "Khó khăn, gay go"
+  },
+  {
+    "no": 1,
+    "hiragana": "がんばります",
+    "kanji": "頑張ります",
+    "romanji": "",
+    "translate": "Cố gắng"
+  },
+  {
+    "no": 1,
+    "hiragana": "かなしい",
+    "kanji": "悲しい",
+    "romanji": "",
+    "translate": "Đau khổ"
+  },
+  {
+    "no": 1,
+    "hiragana": "うれしい",
+    "kanji": "嬉しい",
+    "romanji": "",
+    "translate": "Vui sướng"
+  },
+  {
+    "no": 1,
+    "hiragana": "さびしい",
+    "kanji": "寂しい",
+    "romanji": "",
+    "translate": "Buồn"
+  },
+  {
+    "no": 1,
+    "hiragana": "ねむい",
+    "kanji": "眠い",
+    "romanji": "",
+    "translate": "Buồn ngủ"
+  },
+  {
+    "no": 1,
+    "hiragana": "いみ",
+    "kanji": "意味",
+    "romanji": "",
+    "translate": "Ý nghĩa"
+  },
+  {
+    "no": 1,
+    "hiragana": "おつり",
+    "kanji": "お釣り",
+    "romanji": "",
+    "translate": "Tiền thừa"
+  },
+  {
+    "no": 1,
+    "hiragana": "こまかいおかね",
+    "kanji": "細かいお金",
+    "romanji": "",
+    "translate": "Tiền lẻ"
+  },
+  {
+    "no": 1,
+    "hiragana": "「せんえん」さつ",
+    "kanji": "「千円」札",
+    "romanji": "",
+    "translate": "Tờ 1000 yên"
+  },
+  {
+    "no": 1,
+    "hiragana": "ボタン",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Nút, cúc"
+  },
+  {
+    "no": 1,
+    "hiragana": "みち",
+    "kanji": "道",
+    "romanji": "",
+    "translate": "Đường"
+  },
+  {
+    "no": 1,
+    "hiragana": "はし",
+    "kanji": "橋",
+    "romanji": "",
+    "translate": "Cây cầu"
+  },
+  {
+    "no": 1,
+    "hiragana": "しんごう",
+    "kanji": "信号",
+    "romanji": "",
+    "translate": "Đèn giao thông"
+  },
+  {
+    "no": 1,
+    "hiragana": "いま",
+    "kanji": "今",
+    "romanji": "",
+    "translate": "Bây giờ"
+  },
+  {
+    "no": 1,
+    "hiragana": "まっすぐ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Thẳng"
+  },
+  {
+    "no": 1,
+    "hiragana": "よく",
+    "kanji": "良く",
+    "romanji": "",
+    "translate": "Thường, hay"
+  },
+  {
+    "no": 1,
+    "hiragana": "こまったな",
+    "kanji": "困ったな",
+    "romanji": "",
+    "translate": "Chết rồi, gay quá"
+  },
+  {
+    "no": 1,
+    "hiragana": "なんに　つかいますか。",
+    "kanji": "何に使いますか。",
+    "romanji": "",
+    "translate": "Dùng để làm gì"
+  },
+  {
+    "no": 1,
+    "hiragana": "ひっこしします",
+    "kanji": "引っ越します",
+    "romanji": "",
+    "translate": "Chuyển nhà"
+  },
+  {
+    "no": 1,
+    "hiragana": "でんきや",
+    "kanji": "電気屋",
+    "romanji": "",
+    "translate": "Cửa hàng điện"
+  },
+  {
+    "no": 1,
+    "hiragana": "サイズ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Size, kích cỡ"
+  },
+  {
+    "no": 1,
+    "hiragana": "おと",
+    "kanji": "音",
+    "romanji": "",
+    "translate": "Âm thanh"
+  },
+  {
+    "no": 1,
+    "hiragana": "つまみ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Núm, tay vặn"
+  },
+  {
+    "no": 1,
+    "hiragana": "こしょう",
+    "kanji": "故障",
+    "romanji": "",
+    "translate": "Hỏng hóc"
+  },
+  {
+    "no": 1,
+    "hiragana": "こうさてん",
+    "kanji": "交差点",
+    "romanji": "",
+    "translate": "Ngã tư"
+  },
+  {
+    "no": 1,
+    "hiragana": "かど",
+    "kanji": "角",
+    "romanji": "",
+    "translate": "Góc"
+  },
+  {
+    "no": 1,
+    "hiragana": "ちゅうしゃじょう",
+    "kanji": "駐車場",
+    "romanji": "",
+    "translate": "Bãi đỗ xe"
+  },
+  {
+    "no": 1,
+    "hiragana": "がいこくじんとうろくしょう",
+    "kanji": "外国人登録証",
+    "romanji": "",
+    "translate": "Thẻ đăng ký ngoại kiều"
+  }
+]

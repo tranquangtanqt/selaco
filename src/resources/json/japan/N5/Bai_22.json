@@ -1,0 +1,184 @@
+[
+  {
+    "no": 1,
+    "hiragana": "きます",
+    "kanji": "着ます",
+    "romanji": "",
+    "translate": "Mặc (áo)"
+  },
+  {
+    "no": 1,
+    "hiragana": "シャツをきます",
+    "kanji": "シャツを着ます",
+    "romanji": "",
+    "translate": "Mặc áo"
+  },
+  {
+    "no": 1,
+    "hiragana": "はきます",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Mặc quần, đi tất, đi giày"
+  },
+  {
+    "no": 1,
+    "hiragana": "かぶります",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Đội (mũ)"
+  },
+  {
+    "no": 1,
+    "hiragana": "ヘルメットをかぶります",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Đội mũ bảo hiểm"
+  },
+  {
+    "no": 1,
+    "hiragana": "かけます",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Đeo (kính)"
+  },
+  {
+    "no": 1,
+    "hiragana": "めがねをかけます",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Đeo kính"
+  },
+  {
+    "no": 1,
+    "hiragana": "もっていきます",
+    "kanji": "持って行きます",
+    "romanji": "",
+    "translate": "Cầm đi, đem đi"
+  },
+  {
+    "no": 1,
+    "hiragana": "もってきます",
+    "kanji": "持って来ます",
+    "romanji": "",
+    "translate": "Cầm đến"
+  },
+  {
+    "no": 1,
+    "hiragana": "ぶひん",
+    "kanji": "部品",
+    "romanji": "",
+    "translate": "Sản phẩm"
+  },
+  {
+    "no": 1,
+    "hiragana": "ヘルメット",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Mũ bảo hiểm"
+  },
+  {
+    "no": 1,
+    "hiragana": "ふく",
+    "kanji": "服",
+    "romanji": "",
+    "translate": "Áo quần"
+  },
+  {
+    "no": 1,
+    "hiragana": "コート",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Áo khoác"
+  },
+  {
+    "no": 1,
+    "hiragana": "セーター",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Áo len"
+  },
+  {
+    "no": 1,
+    "hiragana": "ぼうし",
+    "kanji": "帽子",
+    "romanji": "",
+    "translate": "Mũ"
+  },
+  {
+    "no": 1,
+    "hiragana": "めがね",
+    "kanji": "眼鏡",
+    "romanji": "",
+    "translate": "Kính"
+  },
+  {
+    "no": 1,
+    "hiragana": "また、こんどおねがいします。",
+    "kanji": "また、今度お願いします。",
+    "romanji": "",
+    "translate": "Xin hẹn lần tới (cách từ chối khéo lời hẹn của người khác)"
+  },
+  {
+    "no": 1,
+    "hiragana": "おさきに「しつれいします」",
+    "kanji": "お先に「失礼します。」",
+    "romanji": "",
+    "translate": "Xin phép tôi về trước"
+  },
+  {
+    "no": 1,
+    "hiragana": "おつかれさまでした。",
+    "kanji": "お疲れ様でした。",
+    "romanji": "",
+    "translate": "Cảm ơn vì đã vất vả (dùng khi người khác làm việc cho mình, hoặc khi đồng nghiệp về sớm hơn. Không dùng với cấp trên)."
+  },
+  {
+    "no": 1,
+    "hiragana": "うまれます",
+    "kanji": "生まれます",
+    "romanji": "",
+    "translate": "Sinh ra, được sinh ra"
+  },
+  {
+    "no": 1,
+    "hiragana": "やちん",
+    "kanji": "家賃",
+    "romanji": "",
+    "translate": "Tiền nhà"
+  },
+  {
+    "no": 1,
+    "hiragana": "ダイニングキッチン",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Bếp (kèm phòng ăn)"
+  },
+  {
+    "no": 1,
+    "hiragana": "わしつ",
+    "kanji": "和室",
+    "romanji": "",
+    "translate": "Phòng kiểu Nhật"
+  },
+  {
+    "no": 1,
+    "hiragana": "おしいれ",
+    "kanji": "押入れ",
+    "romanji": "",
+    "translate": "Tủ áp tường, tủ để chăn gối trong phòng kiểu Nhật."
+  },
+  {
+    "no": 1,
+    "hiragana": "ふとん",
+    "kanji": "布団",
+    "romanji": "",
+    "translate": "Chăn"
+  },
+  {
+    "no": 1,
+    "hiragana": "アパート",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Căn hộ chung cư"
+  }
+]

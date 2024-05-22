@@ -1,0 +1,219 @@
+[
+  {
+    "no": 1,
+    "hiragana": "つかいます",
+    "kanji": "使います",
+    "romanji": "",
+    "translate": "Sử dụng"
+  },
+  {
+    "no": 1,
+    "hiragana": "すわります",
+    "kanji": "座ります",
+    "romanji": "",
+    "translate": "Ngồi"
+  },
+  {
+    "no": 1,
+    "hiragana": "いすにすわります",
+    "kanji": "椅子に座ります",
+    "romanji": "",
+    "translate": "Ngồi trên ghế"
+  },
+  {
+    "no": 1,
+    "hiragana": "たちます",
+    "kanji": "立ちます",
+    "romanji": "",
+    "translate": "Đứng"
+  },
+  {
+    "no": 1,
+    "hiragana": "おきます",
+    "kanji": "置きます",
+    "romanji": "",
+    "translate": "Đặt, để"
+  },
+  {
+    "no": 1,
+    "hiragana": "つくります",
+    "kanji": "作ります",
+    "romanji": "",
+    "translate": "Chế tạo, chế biến"
+  },
+  {
+    "no": 1,
+    "hiragana": "うります",
+    "kanji": "売ります",
+    "romanji": "",
+    "translate": "Bán"
+  },
+  {
+    "no": 1,
+    "hiragana": "しります",
+    "kanji": "知ります",
+    "romanji": "",
+    "translate": "Biết"
+  },
+  {
+    "no": 1,
+    "hiragana": "もちます",
+    "kanji": "持ちます",
+    "romanji": "",
+    "translate": "Cầm, nắm, mang."
+  },
+  {
+    "no": 1,
+    "hiragana": "すみます",
+    "kanji": "住みます",
+    "romanji": "",
+    "translate": "Sống"
+  },
+  {
+    "no": 1,
+    "hiragana": "しっています",
+    "kanji": "知っています",
+    "romanji": "",
+    "translate": "Biết"
+  },
+  {
+    "no": 1,
+    "hiragana": "もっています",
+    "kanji": "持っています",
+    "romanji": "",
+    "translate": "Có, mang, đang cầm"
+  },
+  {
+    "no": 1,
+    "hiragana": "すんでいます",
+    "kanji": "住んでいます",
+    "romanji": "",
+    "translate": "Đang sống"
+  },
+  {
+    "no": 1,
+    "hiragana": "とうきょうにすんでいます",
+    "kanji": "東京に住んでいます",
+    "romanji": "",
+    "translate": "Đang sống tại Tokyo"
+  },
+  {
+    "no": 1,
+    "hiragana": "きんえん",
+    "kanji": "禁煙",
+    "romanji": "",
+    "translate": "Cấm hút thuốc"
+  },
+  {
+    "no": 1,
+    "hiragana": "せいひん",
+    "kanji": "製品",
+    "romanji": "",
+    "translate": "Sản phẩm"
+  },
+  {
+    "no": 1,
+    "hiragana": "せっけん",
+    "kanji": "石鹼",
+    "romanji": "",
+    "translate": "Xà phòng"
+  },
+  {
+    "no": 1,
+    "hiragana": "タオル",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Khăn mặt "
+  },
+  {
+    "no": 1,
+    "hiragana": "どくしん",
+    "kanji": "独身",
+    "romanji": "",
+    "translate": "Độc thân"
+  },
+  {
+    "no": 1,
+    "hiragana": "「お」しごと",
+    "kanji": "「お」仕事",
+    "romanji": "",
+    "translate": "Công việc"
+  },
+  {
+    "no": 1,
+    "hiragana": "かいしゃいん",
+    "kanji": "会社員",
+    "romanji": "",
+    "translate": "Nhân viên công ty"
+  },
+  {
+    "no": 1,
+    "hiragana": "ぎんこういん",
+    "kanji": "銀行員",
+    "romanji": "",
+    "translate": "Nhân viên ngân hàng"
+  },
+  {
+    "no": 1,
+    "hiragana": "がくせい",
+    "kanji": "学生",
+    "romanji": "",
+    "translate": "Học sinh"
+  },
+  {
+    "no": 1,
+    "hiragana": "エンジン",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Động cơ"
+  },
+  {
+    "no": 1,
+    "hiragana": "だいがく",
+    "kanji": "大学",
+    "romanji": "",
+    "translate": "Đại học"
+  },
+  {
+    "no": 1,
+    "hiragana": "うえの「いもうと」",
+    "kanji": "上の「妹」",
+    "romanji": "",
+    "translate": "Em gái đầu"
+  },
+  {
+    "no": 1,
+    "hiragana": "したの「いもうと」",
+    "kanji": "下の「妹」",
+    "romanji": "",
+    "translate": "Em gái sau"
+  },
+  {
+    "no": 1,
+    "hiragana": "いもうとうさん",
+    "kanji": "妹さん",
+    "romanji": "",
+    "translate": "Em gái của người khác"
+  },
+  {
+    "no": 1,
+    "hiragana": "けんきゅうします",
+    "kanji": "研究します",
+    "romanji": "",
+    "translate": "Nghiên cứu"
+  },
+  {
+    "no": 1,
+    "hiragana": "しりょう",
+    "kanji": "資料",
+    "romanji": "",
+    "translate": "Tài liệu"
+  },
+  {
+    "no": 1,
+    "hiragana": "じこくひょう",
+    "kanji": "時刻表",
+    "romanji": "",
+    "translate": "Bảng giờ tàu chạy"
+  }
+]

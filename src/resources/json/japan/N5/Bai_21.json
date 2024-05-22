@@ -1,0 +1,261 @@
+[
+  {
+    "no": 1,
+    "hiragana": "おもいます",
+    "kanji": "おもいます",
+    "romanji": "",
+    "translate": "Nghĩ rằng"
+  },
+  {
+    "no": 1,
+    "hiragana": "やくにたちます",
+    "kanji": "役に立ちます",
+    "romanji": "",
+    "translate": "Có ích"
+  },
+  {
+    "no": 1,
+    "hiragana": "べんり「な」",
+    "kanji": "便利",
+    "romanji": "",
+    "translate": "Tiện lợi, thuận tiện"
+  },
+  {
+    "no": 1,
+    "hiragana": "ふべん「な」",
+    "kanji": "不便",
+    "romanji": "",
+    "translate": "Bất tiện"
+  },
+  {
+    "no": 1,
+    "hiragana": "おなじ",
+    "kanji": "同じ",
+    "romanji": "",
+    "translate": "Giống, đồng nhất, chung"
+  },
+  {
+    "no": 1,
+    "hiragana": "けんしゅうりょこう",
+    "kanji": "研修旅行",
+    "romanji": "",
+    "translate": "Du lịch thực tập"
+  },
+  {
+    "no": 1,
+    "hiragana": "かいぎ",
+    "kanji": "会議",
+    "romanji": "",
+    "translate": "Cuộc họp, hội nghị"
+  },
+  {
+    "no": 1,
+    "hiragana": "しつもん",
+    "kanji": "質問",
+    "romanji": "",
+    "translate": "Câu hỏi"
+  },
+  {
+    "no": 1,
+    "hiragana": "いけん",
+    "kanji": "意見",
+    "romanji": "",
+    "translate": "Ý kiến"
+  },
+  {
+    "no": 1,
+    "hiragana": "ぎじゅつ",
+    "kanji": "技術",
+    "romanji": "",
+    "translate": "Kỹ thuật"
+  },
+  {
+    "no": 1,
+    "hiragana": "こうつう",
+    "kanji": "交通",
+    "romanji": "",
+    "translate": "Giao thông"
+  },
+  {
+    "no": 1,
+    "hiragana": "みんな",
+    "kanji": "皆",
+    "romanji": "",
+    "translate": "Tất cả"
+  },
+  {
+    "no": 1,
+    "hiragana": "たぶん",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Có lẽ"
+  },
+  {
+    "no": 1,
+    "hiragana": "きっと",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Chắc chắn"
+  },
+  {
+    "no": 1,
+    "hiragana": "ほんとうに",
+    "kanji": "本当に",
+    "romanji": "",
+    "translate": "Quả thật là.."
+  },
+  {
+    "no": 1,
+    "hiragana": "～について",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Về ～"
+  },
+  {
+    "no": 1,
+    "hiragana": "ほかの～",
+    "kanji": "",
+    "romanji": "",
+    "translate": "～ khác"
+  },
+  {
+    "no": 1,
+    "hiragana": "けれども",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Nhưng mà"
+  },
+  {
+    "no": 1,
+    "hiragana": "「にほんは」ぎじゅつがすすんでいます。",
+    "kanji": "「日本は」技術が進んでいます。",
+    "romanji": "",
+    "translate": "Nhật Bản thì kỹ thuật phát triển"
+  },
+  {
+    "no": 1,
+    "hiragana": "たります",
+    "kanji": "足ります",
+    "romanji": "",
+    "translate": "Đủ"
+  },
+  {
+    "no": 1,
+    "hiragana": "かちます",
+    "kanji": "勝ちます",
+    "romanji": "",
+    "translate": "Thắng"
+  },
+  {
+    "no": 1,
+    "hiragana": "まけます",
+    "kanji": "負けます",
+    "romanji": "",
+    "translate": "Thua"
+  },
+  {
+    "no": 1,
+    "hiragana": "「おまつり」があります",
+    "kanji": "「お祭り」があります。",
+    "romanji": "",
+    "translate": "Có lễ hội"
+  },
+  {
+    "no": 1,
+    "hiragana": "むだ「な」",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Lãng phí"
+  },
+  {
+    "no": 1,
+    "hiragana": "しゅしょう",
+    "kanji": "首相",
+    "romanji": "",
+    "translate": "Thủ tướng"
+  },
+  {
+    "no": 1,
+    "hiragana": "だいとうりょう",
+    "kanji": "大統領",
+    "romanji": "",
+    "translate": "Tổng thống"
+  },
+  {
+    "no": 1,
+    "hiragana": "せいじ",
+    "kanji": "政治",
+    "romanji": "",
+    "translate": "Chính trị"
+  },
+  {
+    "no": 1,
+    "hiragana": "ニュース",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Tin tức"
+  },
+  {
+    "no": 1,
+    "hiragana": "スピーチ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Bài diễn thuyết"
+  },
+  {
+    "no": 1,
+    "hiragana": "しあい",
+    "kanji": "試合",
+    "romanji": "",
+    "translate": "Trận đấu"
+  },
+  {
+    "no": 1,
+    "hiragana": "アルバイト",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Việc làm thêm"
+  },
+  {
+    "no": 1,
+    "hiragana": "デザイン",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Thiết kế, kiểu dáng"
+  },
+  {
+    "no": 1,
+    "hiragana": "ユーモア",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Hài hước"
+  },
+  {
+    "no": 1,
+    "hiragana": "ラッシュ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Giờ cao điểm"
+  },
+  {
+    "no": 1,
+    "hiragana": "～でものみませんか",
+    "kanji": "～でも飲みませんか。",
+    "romanji": "",
+    "translate": "～Anh / chị uống… nhé"
+  },
+  {
+    "no": 1,
+    "hiragana": "みないと。。。",
+    "kanji": "見ないと。。。",
+    "romanji": "",
+    "translate": "Phải xem"
+  },
+  {
+    "no": 1,
+    "hiragana": "よかったら",
+    "kanji": "良かったら",
+    "romanji": "",
+    "translate": "Nếu thích thì, nếu được thì."
+  }
+]

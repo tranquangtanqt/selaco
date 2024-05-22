@@ -1,0 +1,86 @@
+[
+  {
+    "no": 1,
+    "hiragana": "せんもん",
+    "kanji": "専門",
+    "romanji": "",
+    "translate": "Chuyên môn"
+  },
+  {
+    "no": 1,
+    "hiragana": "しょくぎょう",
+    "kanji": "職業",
+    "romanji": "",
+    "translate": "Nghề nghiệp"
+  },
+  {
+    "no": 1,
+    "hiragana": "たべもの",
+    "kanji": "食べ物",
+    "romanji": "",
+    "translate": "Thức ăn"
+  },
+  {
+    "no": 1,
+    "hiragana": "りょうり",
+    "kanji": "料理",
+    "romanji": "",
+    "translate": "Món ăn"
+  },
+  {
+    "no": 1,
+    "hiragana": "ちょうみりょう",
+    "kanji": "調味料",
+    "romanji": "",
+    "translate": "Gia vị"
+  },
+  {
+    "no": 1,
+    "hiragana": "びょうき・けが",
+    "kanji": "病気・怪我",
+    "romanji": "",
+    "translate": "Bệnh tật/ vết thương"
+  },
+  {
+    "no": 1,
+    "hiragana": "からだ",
+    "kanji": "体",
+    "romanji": "",
+    "translate": "Cơ thể"
+  },
+  {
+    "no": 1,
+    "hiragana": "かぞく",
+    "kanji": "家族",
+    "romanji": "",
+    "translate": "Gia đình"
+  },
+  {
+    "no": 1,
+    "hiragana": "へやのなか",
+    "kanji": "部屋の中",
+    "romanji": "",
+    "translate": "Bên trong phòng"
+  },
+  {
+    "no": 1,
+    "hiragana": "10.センターのなか",
+    "kanji": "センターの中",
+    "romanji": "",
+    "translate": "Bên trong trung tâm"
+  },
+  {
+    "no": 1,
+    "hiragana": "まちのなか",
+    "kanji": "町の中",
+    "romanji": "",
+    "translate": "Trong thành phố"
+  },
+  {
+    "no": 1,
+    "hiragana": "どうろ・こうつう",
+    "kanji": "道路・交通",
+    "romanji": "",
+    "translate": "Đường phố, giao thông"
+  }
+]

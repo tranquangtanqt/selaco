@@ -1,0 +1,478 @@
+[
+  {
+    "no": 1,
+    "hiragana": "きれい（な）",
+    "kanji": "綺麗",
+    "romanji": "",
+    "translate": "Đẹp, sạch"
+  },
+  {
+    "no": 1,
+    "hiragana": "ハンサム（な）",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Đẹp trai"
+  },
+  {
+    "no": 1,
+    "hiragana": "しんせつ（な）",
+    "kanji": "親切",
+    "romanji": "",
+    "translate": "Tốt bụng"
+  },
+  {
+    "no": 1,
+    "hiragana": "ゆうめい（な）",
+    "kanji": "有名",
+    "romanji": "",
+    "translate": "Nổi tiếng"
+  },
+  {
+    "no": 1,
+    "hiragana": "げんき（な）",
+    "kanji": "元気",
+    "romanji": "",
+    "translate": "Khỏe mạnh"
+  },
+  {
+    "no": 1,
+    "hiragana": "しずか（な）",
+    "kanji": "静か",
+    "romanji": "",
+    "translate": "Yên tĩnh"
+  },
+  {
+    "no": 1,
+    "hiragana": "にぎやか（な）",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Nhộn nhịp, náo nhiệt"
+  },
+  {
+    "no": 1,
+    "hiragana": "おおきい",
+    "kanji": "大きい",
+    "romanji": "",
+    "translate": "Lớn"
+  },
+  {
+    "no": 1,
+    "hiragana": "ちいさい",
+    "kanji": "小さい",
+    "romanji": "",
+    "translate": "Nhỏ"
+  },
+  {
+    "no": 1,
+    "hiragana": "あたらしい",
+    "kanji": "新しい",
+    "romanji": "",
+    "translate": "Mới"
+  },
+  {
+    "no": 1,
+    "hiragana": "ふるい",
+    "kanji": "古い",
+    "romanji": "",
+    "translate": "Cũ"
+  },
+  {
+    "no": 1,
+    "hiragana": "いい（よい）",
+    "kanji": "良い",
+    "romanji": "",
+    "translate": "Tốt"
+  },
+  {
+    "no": 1,
+    "hiragana": "わるい",
+    "kanji": "悪い",
+    "romanji": "",
+    "translate": "Xấu"
+  },
+  {
+    "no": 1,
+    "hiragana": "あつい",
+    "kanji": "暑い",
+    "romanji": "",
+    "translate": "Nóng (thời tiết)"
+  },
+  {
+    "no": 1,
+    "hiragana": "あつい",
+    "kanji": "熱い",
+    "romanji": "",
+    "translate": "Nóng (nhiệt độ)"
+  },
+  {
+    "no": 1,
+    "hiragana": "さむい",
+    "kanji": "寒い",
+    "romanji": "",
+    "translate": "Lạnh (về thời tiết) "
+  },
+  {
+    "no": 1,
+    "hiragana": "つめたい",
+    "kanji": "冷たい",
+    "romanji": "",
+    "translate": "Lạnh (về nhiệt độ, đồ ăn)"
+  },
+  {
+    "no": 1,
+    "hiragana": "むずかしい",
+    "kanji": "難しい",
+    "romanji": "",
+    "translate": "Khó"
+  },
+  {
+    "no": 1,
+    "hiragana": "やさしい",
+    "kanji": "優しい",
+    "romanji": "",
+    "translate": "Dễ"
+  },
+  {
+    "no": 1,
+    "hiragana": "たかい",
+    "kanji": "高い",
+    "romanji": "",
+    "translate": "Cao, đắt"
+  },
+  {
+    "no": 1,
+    "hiragana": "やすい",
+    "kanji": "安い",
+    "romanji": "",
+    "translate": "Rẻ"
+  },
+  {
+    "no": 1,
+    "hiragana": "ひくい",
+    "kanji": "低い",
+    "romanji": "",
+    "translate": "Thấp"
+  },
+  {
+    "no": 1,
+    "hiragana": "おもしろい",
+    "kanji": "面白い",
+    "romanji": "",
+    "translate": "Thú vị"
+  },
+  {
+    "no": 1,
+    "hiragana": "つまらない",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Chán, tẻ nhạt"
+  },
+  {
+    "no": 1,
+    "hiragana": "おいしい",
+    "kanji": "美味しい",
+    "romanji": "",
+    "translate": "Ngon"
+  },
+  {
+    "no": 1,
+    "hiragana": "まずい",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Dở"
+  },
+  {
+    "no": 1,
+    "hiragana": "しろい",
+    "kanji": "白い",
+    "romanji": "",
+    "translate": "Màu trắng"
+  },
+  {
+    "no": 1,
+    "hiragana": "くろい",
+    "kanji": "黒い",
+    "romanji": "",
+    "translate": "Màu đen"
+  },
+  {
+    "no": 1,
+    "hiragana": "あかい",
+    "kanji": "赤い",
+    "romanji": "",
+    "translate": "Màu đỏ"
+  },
+  {
+    "no": 1,
+    "hiragana": "あおい",
+    "kanji": "青い",
+    "romanji": "",
+    "translate": "Màu xanh dương"
+  },
+  {
+    "no": 1,
+    "hiragana": "しけん",
+    "kanji": "試験",
+    "romanji": "",
+    "translate": "Bài kiểm tra"
+  },
+  {
+    "no": 1,
+    "hiragana": "しゅくだい",
+    "kanji": "宿題",
+    "romanji": "",
+    "translate": "Bài tập"
+  },
+  {
+    "no": 1,
+    "hiragana": "たべもの",
+    "kanji": "食べ物",
+    "romanji": "",
+    "translate": "Đồ ăn"
+  },
+  {
+    "no": 1,
+    "hiragana": "さくら",
+    "kanji": "桜",
+    "romanji": "",
+    "translate": "Hoa anh đào"
+  },
+  {
+    "no": 1,
+    "hiragana": "はな",
+    "kanji": "花",
+    "romanji": "",
+    "translate": "Hoa"
+  },
+  {
+    "no": 1,
+    "hiragana": "まち",
+    "kanji": "町",
+    "romanji": "",
+    "translate": "Thành phố"
+  },
+  {
+    "no": 1,
+    "hiragana": "やま",
+    "kanji": "山",
+    "romanji": "",
+    "translate": "Núi"
+  },
+  {
+    "no": 1,
+    "hiragana": "ふじさん",
+    "kanji": "富士山",
+    "romanji": "",
+    "translate": "Núi Phú Sĩ"
+  },
+  {
+    "no": 1,
+    "hiragana": "ところ",
+    "kanji": "所",
+    "romanji": "",
+    "translate": "Nơi"
+  },
+  {
+    "no": 1,
+    "hiragana": "どう",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Như thế nào, ra sao"
+  },
+  {
+    "no": 1,
+    "hiragana": "どんな～",
+    "kanji": "",
+    "romanji": "",
+    "translate": "～ như thế nào"
+  },
+  {
+    "no": 1,
+    "hiragana": "どれ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Cái nào"
+  },
+  {
+    "no": 1,
+    "hiragana": "たいへん",
+    "kanji": "大変",
+    "romanji": "",
+    "translate": "Vất vả"
+  },
+  {
+    "no": 1,
+    "hiragana": "あまり",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Không lắm (luôn đi với phủ định)"
+  },
+  {
+    "no": 1,
+    "hiragana": "そして",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Và, sau đó"
+  },
+  {
+    "no": 1,
+    "hiragana": "～が～",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Nhưng"
+  },
+  {
+    "no": 1,
+    "hiragana": "しばらくですね。",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Lâu lắm không gặp, đã lâu không gặp."
+  },
+  {
+    "no": 1,
+    "hiragana": "おげんきですか。",
+    "kanji": "お元気ですか。",
+    "romanji": "",
+    "translate": "Bạn khỏe không."
+  },
+  {
+    "no": 1,
+    "hiragana": "どうぞこちらへ。",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Xin mời đi lối này."
+  },
+  {
+    "no": 1,
+    "hiragana": "コーヒーはいかがですか。",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Uống cafe nhé"
+  },
+  {
+    "no": 1,
+    "hiragana": "いただきます。",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Xin mời mọi người (dùng khi mời trước khi ăn uống gì đó)."
+  },
+  {
+    "no": 1,
+    "hiragana": "ごちそうさまでした。",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Xin cảm ơn vì bữa ăn (dùng để cảm ơn sau khi ăn xong)"
+  },
+  {
+    "no": 1,
+    "hiragana": "そうですね。",
+    "kanji": "",
+    "romanji": "",
+    "translate": "À, cái đó thì...( dùng khi tạm ngừng và suy nghĩ)"
+  },
+  {
+    "no": 1,
+    "hiragana": "ひま（な）",
+    "kanji": "暇",
+    "romanji": "",
+    "translate": "Rãnh rỗi"
+  },
+  {
+    "no": 1,
+    "hiragana": "いそがしい",
+    "kanji": "忙しい",
+    "romanji": "",
+    "translate": "Bận rộn"
+  },
+  {
+    "no": 1,
+    "hiragana": "べんり（な）",
+    "kanji": "便利",
+    "romanji": "",
+    "translate": "Thuận tiện"
+  },
+  {
+    "no": 1,
+    "hiragana": "たのしい",
+    "kanji": "楽しい",
+    "romanji": "",
+    "translate": "Vui vẻ"
+  },
+  {
+    "no": 1,
+    "hiragana": "くるま",
+    "kanji": "車",
+    "romanji": "",
+    "translate": "Xe ô tô"
+  },
+  {
+    "no": 1,
+    "hiragana": "りょう",
+    "kanji": "寮",
+    "romanji": "",
+    "translate": "Ký túc xá"
+  },
+  {
+    "no": 1,
+    "hiragana": "せいかつ",
+    "kanji": "生活",
+    "romanji": "",
+    "translate": "Cuộc sống sinh hoạt"
+  },
+  {
+    "no": 1,
+    "hiragana": "（お）しごと",
+    "kanji": "（お）仕事",
+    "romanji": "",
+    "translate": "Công việc"
+  },
+  {
+    "no": 1,
+    "hiragana": "しごとをします。",
+    "kanji": "仕事をします。",
+    "romanji": "",
+    "translate": "Làm việc"
+  },
+  {
+    "no": 1,
+    "hiragana": "いいえ、けっこうです。",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Không, đủ rồi ạ. (dùng khi từ chối người khác mời ăn uống thêm)"
+  },
+  {
+    "no": 1,
+    "hiragana": "そろそろしつれいします。",
+    "kanji": "そろそろ失礼します",
+    "romanji": "",
+    "translate": "Sắp đến lúc tôi phải xin phép rồi, sắp đến lúc tôi phải về ạ."
+  },
+  {
+    "no": 1,
+    "hiragana": "もう～なれましたか。",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Anh/chị đã quen～ với chưa."
+  },
+  {
+    "no": 1,
+    "hiragana": "もう　にほんのせいかつになれましたか。",
+    "kanji": "もう　日本の生活なれましたか。",
+    "romanji": "",
+    "translate": "Anh/chị đã quen với cuộc sống ở Nhật chưa."
+  },
+  {
+    "no": 1,
+    "hiragana": "もういっぱいいかがですか。",
+    "kanji": "もいっぱいいかがですか。",
+    "romanji": "",
+    "translate": "Anh/chị dùng thêm 1 cốc nữa nhé."
+  },
+  {
+    "no": 1,
+    "hiragana": "またいらっしゃってください。",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Lần sau anh/chị lại đến nhé."
+  }
+]

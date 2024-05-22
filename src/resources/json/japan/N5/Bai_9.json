@@ -1,0 +1,422 @@
+[
+  {
+    "no": 1,
+    "hiragana": "わかります",
+    "kanji": "分かります",
+    "romanji": "",
+    "translate": "Hiểu"
+  },
+  {
+    "no": 1,
+    "hiragana": "あります",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Có (vật)"
+  },
+  {
+    "no": 1,
+    "hiragana": "すき（な）",
+    "kanji": "好き",
+    "romanji": "",
+    "translate": "Thích"
+  },
+  {
+    "no": 1,
+    "hiragana": "きらい（な）",
+    "kanji": "嫌い",
+    "romanji": "",
+    "translate": "Ghét"
+  },
+  {
+    "no": 1,
+    "hiragana": "へた（な）",
+    "kanji": "下手",
+    "romanji": "",
+    "translate": "Kém"
+  },
+  {
+    "no": 1,
+    "hiragana": "かんじ",
+    "kanji": "漢字",
+    "romanji": "",
+    "translate": "Chữ Kanji"
+  },
+  {
+    "no": 1,
+    "hiragana": "ひらがな",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Chữ Hiragana"
+  },
+  {
+    "no": 1,
+    "hiragana": "かたかな",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Chữ Katakana"
+  },
+  {
+    "no": 1,
+    "hiragana": "ローマじ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Chữ Romaji"
+  },
+  {
+    "no": 1,
+    "hiragana": "りょうり",
+    "kanji": "料理",
+    "romanji": "",
+    "translate": "Món ăn"
+  },
+  {
+    "no": 1,
+    "hiragana": "くだもの",
+    "kanji": "果物",
+    "romanji": "",
+    "translate": "Hoa quả"
+  },
+  {
+    "no": 1,
+    "hiragana": "のみもの",
+    "kanji": "飲み物",
+    "romanji": "",
+    "translate": "Đồ uống"
+  },
+  {
+    "no": 1,
+    "hiragana": "ぶたにく",
+    "kanji": "豚肉",
+    "romanji": "",
+    "translate": "Thịt lợn"
+  },
+  {
+    "no": 1,
+    "hiragana": "とりにく",
+    "kanji": "鶏肉",
+    "romanji": "",
+    "translate": "Thịt gà"
+  },
+  {
+    "no": 1,
+    "hiragana": "ぎゅうにく",
+    "kanji": "牛肉",
+    "romanji": "",
+    "translate": "Thịt bò"
+  },
+  {
+    "no": 1,
+    "hiragana": "みかん",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Quýt"
+  },
+  {
+    "no": 1,
+    "hiragana": "バナナ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Chuối"
+  },
+  {
+    "no": 1,
+    "hiragana": "おんがく",
+    "kanji": "音楽",
+    "romanji": "",
+    "translate": "Âm nhạc"
+  },
+  {
+    "no": 1,
+    "hiragana": "うた",
+    "kanji": "歌",
+    "romanji": "",
+    "translate": "Bài hát"
+  },
+  {
+    "no": 1,
+    "hiragana": "ダンス",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Nhảy dance"
+  },
+  {
+    "no": 1,
+    "hiragana": "ギター",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Đàn ghita"
+  },
+  {
+    "no": 1,
+    "hiragana": "スポーツ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Thể thao"
+  },
+  {
+    "no": 1,
+    "hiragana": "サッカー",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Bóng đá"
+  },
+  {
+    "no": 1,
+    "hiragana": "テニス",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Tennis"
+  },
+  {
+    "no": 1,
+    "hiragana": "じかん",
+    "kanji": "時間",
+    "romanji": "",
+    "translate": "Thời gian"
+  },
+  {
+    "no": 1,
+    "hiragana": "たくさん",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Nhiều"
+  },
+  {
+    "no": 1,
+    "hiragana": "すこし",
+    "kanji": "少し",
+    "romanji": "",
+    "translate": "Ít"
+  },
+  {
+    "no": 1,
+    "hiragana": "よく",
+    "kanji": "良く",
+    "romanji": "",
+    "translate": "Tốt"
+  },
+  {
+    "no": 1,
+    "hiragana": "だいたい",
+    "kanji": "大体",
+    "romanji": "",
+    "translate": "Đại khái"
+  },
+  {
+    "no": 1,
+    "hiragana": "ぜんぜん",
+    "kanji": "全然",
+    "romanji": "",
+    "translate": "Hoàn toàn không"
+  },
+  {
+    "no": 1,
+    "hiragana": "もちろん",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Đương nhiên"
+  },
+  {
+    "no": 1,
+    "hiragana": "どうして",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Tại sao"
+  },
+  {
+    "no": 1,
+    "hiragana": "～から",
+    "kanji": "",
+    "romanji": "",
+    "translate": "～vì "
+  },
+  {
+    "no": 1,
+    "hiragana": "びょうき",
+    "kanji": "病気",
+    "romanji": "",
+    "translate": "Bệnh"
+  },
+  {
+    "no": 1,
+    "hiragana": "くすり",
+    "kanji": "薬",
+    "romanji": "",
+    "translate": "Thuốc"
+  },
+  {
+    "no": 1,
+    "hiragana": "あたま",
+    "kanji": "頭",
+    "romanji": "",
+    "translate": "Đầu"
+  },
+  {
+    "no": 1,
+    "hiragana": "おなか",
+    "kanji": "お腹",
+    "romanji": "",
+    "translate": "Bụng"
+  },
+  {
+    "no": 1,
+    "hiragana": "いたい",
+    "kanji": "痛い",
+    "romanji": "",
+    "translate": "Đau"
+  },
+  {
+    "no": 1,
+    "hiragana": "あたまがいたい",
+    "kanji": "頭が痛い",
+    "romanji": "",
+    "translate": "Đau đầu"
+  },
+  {
+    "no": 1,
+    "hiragana": "ねつがあります",
+    "kanji": "熱があります",
+    "romanji": "",
+    "translate": "Bị sốt"
+  },
+  {
+    "no": 1,
+    "hiragana": "かぜをひきます",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Bị cảm"
+  },
+  {
+    "no": 1,
+    "hiragana": "やすみます",
+    "kanji": "休みます",
+    "romanji": "",
+    "translate": "Nghỉ ngơi"
+  },
+  {
+    "no": 1,
+    "hiragana": "かいしゃをやすみます。",
+    "kanji": "会社を休みます",
+    "romanji": "",
+    "translate": "Nghỉ ở công ty"
+  },
+  {
+    "no": 1,
+    "hiragana": "なんですか。",
+    "kanji": "何ですか。",
+    "romanji": "",
+    "translate": "Chuyện gì vậy"
+  },
+  {
+    "no": 1,
+    "hiragana": "すみませんが…..",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Xin lỗi…"
+  },
+  {
+    "no": 1,
+    "hiragana": "どう　しましたか。",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Đã có chuyện gì vậy."
+  },
+  {
+    "no": 1,
+    "hiragana": "クラシック",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Nhạc cổ điển"
+  },
+  {
+    "no": 1,
+    "hiragana": "ジャズ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Nhạc Jazz"
+  },
+  {
+    "no": 1,
+    "hiragana": "コンサート",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Buổi hòa nhạc"
+  },
+  {
+    "no": 1,
+    "hiragana": "カラオケ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Karaoke"
+  },
+  {
+    "no": 1,
+    "hiragana": "かぶき",
+    "kanji": "歌舞伎",
+    "romanji": "",
+    "translate": "Kịch Kabuki (kịch truyền thống của Nhật Bản)"
+  },
+  {
+    "no": 1,
+    "hiragana": "こまかいおかね",
+    "kanji": "細かいお金",
+    "romanji": "",
+    "translate": "Tiền lẻ"
+  },
+  {
+    "no": 1,
+    "hiragana": "チケット",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Vé (xem hòa nhạc, xem phim)"
+  },
+  {
+    "no": 1,
+    "hiragana": "ようじ",
+    "kanji": "用事",
+    "romanji": "",
+    "translate": "Việc bận, việc riêng."
+  },
+  {
+    "no": 1,
+    "hiragana": "やくそく",
+    "kanji": "約束",
+    "romanji": "",
+    "translate": "Cuộc hẹn, lời hứa."
+  },
+  {
+    "no": 1,
+    "hiragana": "はやく",
+    "kanji": "早く",
+    "romanji": "",
+    "translate": "Nhanh, sớm"
+  },
+  {
+    "no": 1,
+    "hiragana": "～はちょっと。。。",
+    "kanji": "",
+    "romanji": "",
+    "translate": "～thì có lẽ không được rồi (cách từ chối khéo léo khi nhận được lời mời nào đó)"
+  },
+  {
+    "no": 1,
+    "hiragana": "だめですか。",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Không được à? Không được phải không."
+  },
+  {
+    "no": 1,
+    "hiragana": "ざんねんです（ね）。",
+    "kanji": "残念です（ね）。",
+    "romanji": "",
+    "translate": "Thật đáng tiếc, buồn nhỉ."
+  },
+  {
+    "no": 1,
+    "hiragana": "またこんどおねがいします。",
+    "kanji": "また今度お願いします",
+    "romanji": "",
+    "translate": "Hẹn anh, chị lần sau, lần tới mong nhận được sự giúp đỡ."
+  }
+]

@@ -1,0 +1,436 @@
+[
+  {
+    "no": 1,
+    "hiragana": "いきます",
+    "kanji": "行きます",
+    "romanji": "",
+    "translate": "Đi"
+  },
+  {
+    "no": 1,
+    "hiragana": "きます",
+    "kanji": "来ます",
+    "romanji": "",
+    "translate": "Đến"
+  },
+  {
+    "no": 1,
+    "hiragana": "かえります",
+    "kanji": "帰ります",
+    "romanji": "",
+    "translate": "Về, trở về"
+  },
+  {
+    "no": 1,
+    "hiragana": "こうじょう",
+    "kanji": "工場",
+    "romanji": "",
+    "translate": "Nhà máy, công trường"
+  },
+  {
+    "no": 1,
+    "hiragana": "えき",
+    "kanji": "駅",
+    "romanji": "",
+    "translate": "Nhà ga"
+  },
+  {
+    "no": 1,
+    "hiragana": "ぎんこう",
+    "kanji": "銀行",
+    "romanji": "",
+    "translate": "Ngân hàng"
+  },
+  {
+    "no": 1,
+    "hiragana": "びょういん",
+    "kanji": "病院",
+    "romanji": "",
+    "translate": "Bệnh viện"
+  },
+  {
+    "no": 1,
+    "hiragana": "デパート",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Cửa hàng bách hóa"
+  },
+  {
+    "no": 1,
+    "hiragana": "スーパー",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Siêu thị"
+  },
+  {
+    "no": 1,
+    "hiragana": "ほんや",
+    "kanji": "本屋",
+    "romanji": "",
+    "translate": "Cửa hàng sách"
+  },
+  {
+    "no": 1,
+    "hiragana": "～や",
+    "kanji": "～屋",
+    "romanji": "",
+    "translate": "Hiệu～, cửa hàng～"
+  },
+  {
+    "no": 1,
+    "hiragana": "～がつ",
+    "kanji": "～月",
+    "romanji": "",
+    "translate": "Tháng ～"
+  },
+  {
+    "no": 1,
+    "hiragana": "なんがつ",
+    "kanji": "何月",
+    "romanji": "",
+    "translate": "Tháng mấy"
+  },
+  {
+    "no": 1,
+    "hiragana": "ついたち",
+    "kanji": "一日",
+    "romanji": "",
+    "translate": "Ngày mồng 1"
+  },
+  {
+    "no": 1,
+    "hiragana": "ふつか",
+    "kanji": "二日",
+    "romanji": "",
+    "translate": "Ngày mồng 2"
+  },
+  {
+    "no": 1,
+    "hiragana": "みっか",
+    "kanji": "三日",
+    "romanji": "",
+    "translate": "Ngày mồng 3"
+  },
+  {
+    "no": 1,
+    "hiragana": "よっか",
+    "kanji": "四日",
+    "romanji": "",
+    "translate": "Ngày mồng 4"
+  },
+  {
+    "no": 1,
+    "hiragana": "いつか",
+    "kanji": "五日",
+    "romanji": "",
+    "translate": "Ngày mồng 5"
+  },
+  {
+    "no": 1,
+    "hiragana": "むいか",
+    "kanji": "六日",
+    "romanji": "",
+    "translate": "Ngày mồng 6"
+  },
+  {
+    "no": 1,
+    "hiragana": "なのか",
+    "kanji": "七日",
+    "romanji": "",
+    "translate": "Ngày mồng 7"
+  },
+  {
+    "no": 1,
+    "hiragana": "ようか",
+    "kanji": "八日",
+    "romanji": "",
+    "translate": "Ngày mồng 8"
+  },
+  {
+    "no": 1,
+    "hiragana": "ここのか",
+    "kanji": "九日",
+    "romanji": "",
+    "translate": "Ngày mồng 9"
+  },
+  {
+    "no": 1,
+    "hiragana": "とおか",
+    "kanji": "十日",
+    "romanji": "",
+    "translate": "Ngày mồng 10"
+  },
+  {
+    "no": 1,
+    "hiragana": "じゅうよっか",
+    "kanji": "十四日",
+    "romanji": "",
+    "translate": "Ngày 14"
+  },
+  {
+    "no": 1,
+    "hiragana": "はつか",
+    "kanji": "二十日",
+    "romanji": "",
+    "translate": "Ngày 20"
+  },
+  {
+    "no": 1,
+    "hiragana": "にじゅうよっか",
+    "kanji": "二十四日",
+    "romanji": "",
+    "translate": "Ngày 24"
+  },
+  {
+    "no": 1,
+    "hiragana": "～にち",
+    "kanji": "～日",
+    "romanji": "",
+    "translate": "Ngày ～, ～ngày"
+  },
+  {
+    "no": 1,
+    "hiragana": "なんにち",
+    "kanji": "何日",
+    "romanji": "",
+    "translate": "Ngày mấy"
+  },
+  {
+    "no": 1,
+    "hiragana": "いつ",
+    "kanji": "いつ",
+    "romanji": "",
+    "translate": "Khi nào"
+  },
+  {
+    "no": 1,
+    "hiragana": "せんしゅう",
+    "kanji": "先週",
+    "romanji": "",
+    "translate": "Tuần trước"
+  },
+  {
+    "no": 1,
+    "hiragana": "こんしゅう",
+    "kanji": "今週",
+    "romanji": "",
+    "translate": "Tuần này"
+  },
+  {
+    "no": 1,
+    "hiragana": "らいしゅう",
+    "kanji": "来週",
+    "romanji": "",
+    "translate": "Tuần sau"
+  },
+  {
+    "no": 1,
+    "hiragana": "せんげつ",
+    "kanji": "先月",
+    "romanji": "",
+    "translate": "Tháng trước"
+  },
+  {
+    "no": 1,
+    "hiragana": "こんげつ",
+    "kanji": "今月",
+    "romanji": "",
+    "translate": "Tháng này"
+  },
+  {
+    "no": 1,
+    "hiragana": "らいげつ",
+    "kanji": "来月",
+    "romanji": "",
+    "translate": "Tháng sau"
+  },
+  {
+    "no": 1,
+    "hiragana": "きょねん",
+    "kanji": "去年",
+    "romanji": "",
+    "translate": "Năm ngoái"
+  },
+  {
+    "no": 1,
+    "hiragana": "ことし",
+    "kanji": "今年",
+    "romanji": "",
+    "translate": "Năm nay"
+  },
+  {
+    "no": 1,
+    "hiragana": "らいねん",
+    "kanji": "来年",
+    "romanji": "",
+    "translate": "Năm sau"
+  },
+  {
+    "no": 1,
+    "hiragana": "たんじょうび",
+    "kanji": "誕生日",
+    "romanji": "",
+    "translate": "Sinh nhật"
+  },
+  {
+    "no": 1,
+    "hiragana": "ひこうき",
+    "kanji": "飛行機",
+    "romanji": "",
+    "translate": "Máy bay"
+  },
+  {
+    "no": 1,
+    "hiragana": "ふね",
+    "kanji": "船",
+    "romanji": "",
+    "translate": "Thuyền"
+  },
+  {
+    "no": 1,
+    "hiragana": "でんしゃ",
+    "kanji": "電車",
+    "romanji": "",
+    "translate": "Tàu điện"
+  },
+  {
+    "no": 1,
+    "hiragana": "バス",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Xe buýt"
+  },
+  {
+    "no": 1,
+    "hiragana": "タクシー",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Xe taxi"
+  },
+  {
+    "no": 1,
+    "hiragana": "ちかてつ",
+    "kanji": "地下鉄",
+    "romanji": "",
+    "translate": "Tàu điện ngầm"
+  },
+  {
+    "no": 1,
+    "hiragana": "しんかんせん",
+    "kanji": "新幹線",
+    "romanji": "",
+    "translate": "Tàu shinkansen"
+  },
+  {
+    "no": 1,
+    "hiragana": "あるいて",
+    "kanji": "歩いて",
+    "romanji": "",
+    "translate": "Đi bộ"
+  },
+  {
+    "no": 1,
+    "hiragana": "ひと",
+    "kanji": "人",
+    "romanji": "",
+    "translate": "Người"
+  },
+  {
+    "no": 1,
+    "hiragana": "ともだち",
+    "kanji": "友達",
+    "romanji": "",
+    "translate": "Bạn bè"
+  },
+  {
+    "no": 1,
+    "hiragana": "こいびと",
+    "kanji": "恋人",
+    "romanji": "",
+    "translate": "Người yêu"
+  },
+  {
+    "no": 1,
+    "hiragana": "ひとりで",
+    "kanji": "一人で",
+    "romanji": "",
+    "translate": "Một mình"
+  },
+  {
+    "no": 1,
+    "hiragana": "～ばんせん",
+    "kanji": "番線",
+    "romanji": "",
+    "translate": "Sân ga số～, đường ga số～"
+  },
+  {
+    "no": 1,
+    "hiragana": "じてんしゃ",
+    "kanji": "自転車",
+    "romanji": "",
+    "translate": "Xe đạp"
+  },
+  {
+    "no": 1,
+    "hiragana": "バイク",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Xe máy"
+  },
+  {
+    "no": 1,
+    "hiragana": "かれ",
+    "kanji": "彼",
+    "romanji": "",
+    "translate": "Anh ấy, bạn trai"
+  },
+  {
+    "no": 1,
+    "hiragana": "かのじょ",
+    "kanji": "彼女",
+    "romanji": "",
+    "translate": "Cô ấy, bạn gái"
+  },
+  {
+    "no": 1,
+    "hiragana": "かぞく",
+    "kanji": "家族",
+    "romanji": "",
+    "translate": "Gia đình"
+  },
+  {
+    "no": 1,
+    "hiragana": "ふつう",
+    "kanji": "普通",
+    "romanji": "",
+    "translate": "Tàu thường (dừng tất cả các ga lẻ)"
+  },
+  {
+    "no": 1,
+    "hiragana": "きゅうこう",
+    "kanji": "急行",
+    "romanji": "",
+    "translate": "Tàu tốc hành"
+  },
+  {
+    "no": 1,
+    "hiragana": "とっきゅう",
+    "kanji": "特急",
+    "romanji": "",
+    "translate": "Tàu tốc hành đặc biệt"
+  },
+  {
+    "no": 1,
+    "hiragana": "つぎの",
+    "kanji": "次の",
+    "romanji": "",
+    "translate": "Tiếp theo"
+  },
+  {
+    "no": 1,
+    "hiragana": "どういたしまして.",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Không có gì."
+  }
+]

@@ -1,0 +1,387 @@
+[
+  {
+    "no": 1,
+    "hiragana": "おきます",
+    "kanji": "起きます",
+    "romanji": "",
+    "translate": "Thức dậy"
+  },
+  {
+    "no": 1,
+    "hiragana": "ねます",
+    "kanji": "寝ます",
+    "romanji": "",
+    "translate": "Ngủ"
+  },
+  {
+    "no": 1,
+    "hiragana": "はたらきます",
+    "kanji": "働きます",
+    "romanji": "",
+    "translate": "Làm việc"
+  },
+  {
+    "no": 1,
+    "hiragana": "やすみます",
+    "kanji": "休みます",
+    "romanji": "",
+    "translate": "Nghỉ ngơi"
+  },
+  {
+    "no": 1,
+    "hiragana": "べんきょうします",
+    "kanji": "勉強します",
+    "romanji": "",
+    "translate": "Học"
+  },
+  {
+    "no": 1,
+    "hiragana": "おわります",
+    "kanji": "終わります",
+    "romanji": "",
+    "translate": "Kết thúc"
+  },
+  {
+    "no": 1,
+    "hiragana": "いま",
+    "kanji": "今",
+    "romanji": "",
+    "translate": "Bây giờ"
+  },
+  {
+    "no": 1,
+    "hiragana": "～じ",
+    "kanji": "～時",
+    "romanji": "",
+    "translate": "～giờ"
+  },
+  {
+    "no": 1,
+    "hiragana": "～ふん（ぷん）",
+    "kanji": "～分",
+    "romanji": "",
+    "translate": "～ phút"
+  },
+  {
+    "no": 1,
+    "hiragana": "はん",
+    "kanji": "半",
+    "romanji": "",
+    "translate": "Một nửa, rưỡi"
+  },
+  {
+    "no": 1,
+    "hiragana": "なんじ",
+    "kanji": "何時",
+    "romanji": "",
+    "translate": "Mấy giờ"
+  },
+  {
+    "no": 1,
+    "hiragana": "なんぷん",
+    "kanji": "何分",
+    "romanji": "",
+    "translate": "Mấy phút"
+  },
+  {
+    "no": 1,
+    "hiragana": "ごぜん",
+    "kanji": "午前",
+    "romanji": "",
+    "translate": "Buổi sáng"
+  },
+  {
+    "no": 1,
+    "hiragana": "ごご",
+    "kanji": "午後",
+    "romanji": "",
+    "translate": "Buổi chiều"
+  },
+  {
+    "no": 1,
+    "hiragana": "あさ",
+    "kanji": "朝",
+    "romanji": "",
+    "translate": "Sáng"
+  },
+  {
+    "no": 1,
+    "hiragana": "ひる",
+    "kanji": "昼",
+    "romanji": "",
+    "translate": "Trưa"
+  },
+  {
+    "no": 1,
+    "hiragana": "ばん（よる）",
+    "kanji": "晩（夜）",
+    "romanji": "",
+    "translate": "Tối"
+  },
+  {
+    "no": 1,
+    "hiragana": "おととい",
+    "kanji": "一昨日",
+    "romanji": "",
+    "translate": "Hôm kia"
+  },
+  {
+    "no": 1,
+    "hiragana": "きのう",
+    "kanji": "昨日",
+    "romanji": "",
+    "translate": "Hôm qua"
+  },
+  {
+    "no": 1,
+    "hiragana": "きょう",
+    "kanji": "今日",
+    "romanji": "",
+    "translate": "Hôm nay"
+  },
+  {
+    "no": 1,
+    "hiragana": "あした",
+    "kanji": "明日",
+    "romanji": "",
+    "translate": "Ngày mai"
+  },
+  {
+    "no": 1,
+    "hiragana": "あさって",
+    "kanji": "明後日",
+    "romanji": "",
+    "translate": "Ngày kia"
+  },
+  {
+    "no": 1,
+    "hiragana": "けさ",
+    "kanji": "今朝",
+    "romanji": "",
+    "translate": "Sáng nay"
+  },
+  {
+    "no": 1,
+    "hiragana": "こんばん",
+    "kanji": "今晩",
+    "romanji": "",
+    "translate": "Tối nay"
+  },
+  {
+    "no": 1,
+    "hiragana": "まいあさ",
+    "kanji": "毎朝",
+    "romanji": "",
+    "translate": "Hàng sáng"
+  },
+  {
+    "no": 1,
+    "hiragana": "まいばん",
+    "kanji": "毎晩",
+    "romanji": "",
+    "translate": "Hàng tối"
+  },
+  {
+    "no": 1,
+    "hiragana": "まいにち",
+    "kanji": "毎日",
+    "romanji": "",
+    "translate": "Hàng ngày"
+  },
+  {
+    "no": 1,
+    "hiragana": "にほんご",
+    "kanji": "日本語",
+    "romanji": "",
+    "translate": "Tiếng Nhật"
+  },
+  {
+    "no": 1,
+    "hiragana": "～ご",
+    "kanji": "～語",
+    "romanji": "",
+    "translate": "Tiếng ～"
+  },
+  {
+    "no": 1,
+    "hiragana": "べんきょう",
+    "kanji": "勉強",
+    "romanji": "",
+    "translate": "Việc học"
+  },
+  {
+    "no": 1,
+    "hiragana": "こうぎ",
+    "kanji": "講義",
+    "romanji": "",
+    "translate": "Bài giảng"
+  },
+  {
+    "no": 1,
+    "hiragana": "けんがく",
+    "kanji": "見学",
+    "romanji": "",
+    "translate": "Kiến tập, tham quan"
+  },
+  {
+    "no": 1,
+    "hiragana": "～から",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Từ ～"
+  },
+  {
+    "no": 1,
+    "hiragana": "～まで",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Đến ～"
+  },
+  {
+    "no": 1,
+    "hiragana": "にちようび",
+    "kanji": "日曜日",
+    "romanji": "",
+    "translate": "Chủ nhật"
+  },
+  {
+    "no": 1,
+    "hiragana": "げつようび",
+    "kanji": "月曜日",
+    "romanji": "",
+    "translate": "Thứ 2"
+  },
+  {
+    "no": 1,
+    "hiragana": "かようび",
+    "kanji": "火曜日",
+    "romanji": "",
+    "translate": "Thứ 3"
+  },
+  {
+    "no": 1,
+    "hiragana": "すいようび",
+    "kanji": "水曜日",
+    "romanji": "",
+    "translate": "Thứ 4"
+  },
+  {
+    "no": 1,
+    "hiragana": "もくようび",
+    "kanji": "木曜日",
+    "romanji": "",
+    "translate": "Thứ 5"
+  },
+  {
+    "no": 1,
+    "hiragana": "きんようび",
+    "kanji": "金曜日",
+    "romanji": "",
+    "translate": "Thứ 6"
+  },
+  {
+    "no": 1,
+    "hiragana": "どようび",
+    "kanji": "土曜日",
+    "romanji": "",
+    "translate": "Thứ 7"
+  },
+  {
+    "no": 1,
+    "hiragana": "なんようび",
+    "kanji": "何曜日",
+    "romanji": "",
+    "translate": "Thứ mấy"
+  },
+  {
+    "no": 1,
+    "hiragana": "そうですか",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Thế à (câu tỏ ý mình đang nghe lời của người nói chuyện với mình)"
+  },
+  {
+    "no": 1,
+    "hiragana": "たいへんですね",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Anh, chị vất vả rồi (dùng để bày tỏ sự thông cảm)."
+  },
+  {
+    "no": 1,
+    "hiragana": "がっこう",
+    "kanji": "学校",
+    "romanji": "",
+    "translate": "Trường học"
+  },
+  {
+    "no": 1,
+    "hiragana": "ぎんこう",
+    "kanji": "銀行",
+    "romanji": "",
+    "translate": "Ngân hàng"
+  },
+  {
+    "no": 1,
+    "hiragana": "ゆうびんきょく",
+    "kanji": "郵便局",
+    "romanji": "",
+    "translate": "Bưu điện"
+  },
+  {
+    "no": 1,
+    "hiragana": "としょかん",
+    "kanji": "図書館",
+    "romanji": "",
+    "translate": "Thư viện"
+  },
+  {
+    "no": 1,
+    "hiragana": "びじゅつかん",
+    "kanji": "美術館",
+    "romanji": "",
+    "translate": "Bảo tàng mỹ thuật"
+  },
+  {
+    "no": 1,
+    "hiragana": "やすみ",
+    "kanji": "休み",
+    "romanji": "",
+    "translate": "Nghỉ ngơi"
+  },
+  {
+    "no": 1,
+    "hiragana": "ひるやすみ",
+    "kanji": "昼休み",
+    "romanji": "",
+    "translate": "Nghỉ trưa"
+  },
+  {
+    "no": 1,
+    "hiragana": "ばんごう",
+    "kanji": "番号",
+    "romanji": "",
+    "translate": "Số (số điện thoại, số phòng)"
+  },
+  {
+    "no": 1,
+    "hiragana": "なんばん",
+    "kanji": "何番",
+    "romanji": "",
+    "translate": "Số bao nhiêu, số mấy"
+  },
+  {
+    "no": 1,
+    "hiragana": "そちら",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Ông/bà. Phía ông/ phía bà"
+  },
+  {
+    "no": 1,
+    "hiragana": "えーと",
+    "kanji": "",
+    "romanji": "",
+    "translate": "ừ, à (từ đệm trong hội thoại khi đang nghĩ điều muốn nói)."
+  }
+]

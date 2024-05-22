@@ -1,0 +1,471 @@
+[
+  {
+    "no": 1,
+    "hiragana": "たべます",
+    "kanji": "食べます",
+    "romanji": "",
+    "translate": "Ăn"
+  },
+  {
+    "no": 1,
+    "hiragana": "のみます",
+    "kanji": "飲みます",
+    "romanji": "",
+    "translate": "Uống"
+  },
+  {
+    "no": 1,
+    "hiragana": "すいます",
+    "kanji": "たばこを吸います",
+    "romanji": "",
+    "translate": "Hút thuốc"
+  },
+  {
+    "no": 1,
+    "hiragana": "かきます",
+    "kanji": "書きます",
+    "romanji": "",
+    "translate": "Viết"
+  },
+  {
+    "no": 1,
+    "hiragana": "よみます",
+    "kanji": "読みます",
+    "romanji": "",
+    "translate": "Đọc"
+  },
+  {
+    "no": 1,
+    "hiragana": "ききます",
+    "kanji": "聞きます",
+    "romanji": "",
+    "translate": "Nghe"
+  },
+  {
+    "no": 1,
+    "hiragana": "みます",
+    "kanji": "見ます",
+    "romanji": "",
+    "translate": "Nhìn"
+  },
+  {
+    "no": 1,
+    "hiragana": "かいます",
+    "kanji": "買います",
+    "romanji": "",
+    "translate": "Mua"
+  },
+  {
+    "no": 1,
+    "hiragana": "とります",
+    "kanji": "撮ります",
+    "romanji": "",
+    "translate": "Chụp"
+  },
+  {
+    "no": 1,
+    "hiragana": "しゃしんをとります",
+    "kanji": "写真を撮ります",
+    "romanji": "",
+    "translate": "Chụp hình"
+  },
+  {
+    "no": 1,
+    "hiragana": "じっしゅうします",
+    "kanji": "実習します",
+    "romanji": "",
+    "translate": "Thực tập"
+  },
+  {
+    "no": 1,
+    "hiragana": "します",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Làm"
+  },
+  {
+    "no": 1,
+    "hiragana": "ピンポンをします。",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Chơi bóng bàn"
+  },
+  {
+    "no": 1,
+    "hiragana": "あいます",
+    "kanji": "会います",
+    "romanji": "",
+    "translate": "Gặp"
+  },
+  {
+    "no": 1,
+    "hiragana": "ともだちにあいます",
+    "kanji": "友達に会います",
+    "romanji": "",
+    "translate": "Gặp bạn"
+  },
+  {
+    "no": 1,
+    "hiragana": "ごはん",
+    "kanji": "御飯",
+    "romanji": "",
+    "translate": "Cơm"
+  },
+  {
+    "no": 1,
+    "hiragana": "あさごはん",
+    "kanji": "朝ご飯",
+    "romanji": "",
+    "translate": "Cơm sáng"
+  },
+  {
+    "no": 1,
+    "hiragana": "ひるごはん",
+    "kanji": "昼ご飯",
+    "romanji": "",
+    "translate": "Cơm trưa"
+  },
+  {
+    "no": 1,
+    "hiragana": "ばんごはん",
+    "kanji": "晩ご飯",
+    "romanji": "",
+    "translate": "Cơm tối"
+  },
+  {
+    "no": 1,
+    "hiragana": "パン",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Bánh mì"
+  },
+  {
+    "no": 1,
+    "hiragana": "たまご",
+    "kanji": "卵",
+    "romanji": "",
+    "translate": "Trứng"
+  },
+  {
+    "no": 1,
+    "hiragana": "にく",
+    "kanji": "肉",
+    "romanji": "",
+    "translate": "Thịt"
+  },
+  {
+    "no": 1,
+    "hiragana": "さかな",
+    "kanji": "魚",
+    "romanji": "",
+    "translate": "Cá"
+  },
+  {
+    "no": 1,
+    "hiragana": "やさい",
+    "kanji": "野菜",
+    "romanji": "",
+    "translate": "Rau"
+  },
+  {
+    "no": 1,
+    "hiragana": "りんご",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Táo"
+  },
+  {
+    "no": 1,
+    "hiragana": "ぎゅうにゅう（ミルク）",
+    "kanji": "牛乳",
+    "romanji": "",
+    "translate": "Sữa "
+  },
+  {
+    "no": 1,
+    "hiragana": "おちゃ",
+    "kanji": "お茶",
+    "romanji": "",
+    "translate": "Trà "
+  },
+  {
+    "no": 1,
+    "hiragana": "コーヒー",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Cà phê"
+  },
+  {
+    "no": 1,
+    "hiragana": "こうちゃ",
+    "kanji": "紅茶",
+    "romanji": "",
+    "translate": "Hồng trà"
+  },
+  {
+    "no": 1,
+    "hiragana": "ジュース",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Nước hoa quả"
+  },
+  {
+    "no": 1,
+    "hiragana": "ビール",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Bia"
+  },
+  {
+    "no": 1,
+    "hiragana": "「おさけ」",
+    "kanji": "お酒",
+    "romanji": "",
+    "translate": "Rượu"
+  },
+  {
+    "no": 1,
+    "hiragana": "みず",
+    "kanji": "水",
+    "romanji": "",
+    "translate": "Nước"
+  },
+  {
+    "no": 1,
+    "hiragana": "ネクタイ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Cà vạt"
+  },
+  {
+    "no": 1,
+    "hiragana": "シャツ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Áo sơ mi"
+  },
+  {
+    "no": 1,
+    "hiragana": "くつ",
+    "kanji": "靴",
+    "romanji": "",
+    "translate": "Giầy"
+  },
+  {
+    "no": 1,
+    "hiragana": "テープ(カセットテープ)",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Băng (băng cát xét)"
+  },
+  {
+    "no": 1,
+    "hiragana": "フィルム",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Phim, cuộn phim"
+  },
+  {
+    "no": 1,
+    "hiragana": "しゃしん",
+    "kanji": "写真",
+    "romanji": "",
+    "translate": "Bức ảnh"
+  },
+  {
+    "no": 1,
+    "hiragana": "えいが",
+    "kanji": "映画",
+    "romanji": "",
+    "translate": "Phim, điện ảnh (phim chiếu rạp)"
+  },
+  {
+    "no": 1,
+    "hiragana": "ピンポン",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Bóng bàn"
+  },
+  {
+    "no": 1,
+    "hiragana": "なに",
+    "kanji": "何",
+    "romanji": "",
+    "translate": "Cái gì, gì"
+  },
+  {
+    "no": 1,
+    "hiragana": "いっしょに",
+    "kanji": "一緒に",
+    "romanji": "",
+    "translate": "Cùng, cùng nhau"
+  },
+  {
+    "no": 1,
+    "hiragana": "それから",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Sau đó, tiếp theo"
+  },
+  {
+    "no": 1,
+    "hiragana": "～と～",
+    "kanji": "",
+    "romanji": "",
+    "translate": "～và～ (liên từ dùng để nối danh từ)"
+  },
+  {
+    "no": 1,
+    "hiragana": "もしもし",
+    "kanji": "",
+    "romanji": "",
+    "translate": "A lô (khi gọi, nghe điện thoại)"
+  },
+  {
+    "no": 1,
+    "hiragana": "ああ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "À"
+  },
+  {
+    "no": 1,
+    "hiragana": "ええ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Vâng, được (cách nói thân mật của はい)"
+  },
+  {
+    "no": 1,
+    "hiragana": "「あした」ひまですか。",
+    "kanji": "「明日」暇ですか。",
+    "romanji": "",
+    "translate": "(Ngày mai) anh chị rãnh không."
+  },
+  {
+    "no": 1,
+    "hiragana": "いいですね。",
+    "kanji": "良いですね。",
+    "romanji": "",
+    "translate": "Được đấy nhỉ/hay quá."
+  },
+  {
+    "no": 1,
+    "hiragana": "わかりました。",
+    "kanji": "分かりました。",
+    "romanji": "",
+    "translate": "Tôi hiểu rồi, vâng ạ"
+  },
+  {
+    "no": 1,
+    "hiragana": "また「あした」",
+    "kanji": "また「明日」",
+    "romanji": "",
+    "translate": "Hẹn gặp lại (ngày mai)"
+  },
+  {
+    "no": 1,
+    "hiragana": "たべもの",
+    "kanji": "食べ物",
+    "romanji": "",
+    "translate": "Đồ ăn"
+  },
+  {
+    "no": 1,
+    "hiragana": "くだもの",
+    "kanji": "果物",
+    "romanji": "",
+    "translate": "Hoa quả"
+  },
+  {
+    "no": 1,
+    "hiragana": "レポート",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Báo cáo"
+  },
+  {
+    "no": 1,
+    "hiragana": "みせ",
+    "kanji": "店",
+    "romanji": "",
+    "translate": "Cửa hàng"
+  },
+  {
+    "no": 1,
+    "hiragana": "レストラン",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Nhà hàng"
+  },
+  {
+    "no": 1,
+    "hiragana": "しゅくだい",
+    "kanji": "宿題",
+    "romanji": "",
+    "translate": "Bài tập"
+  },
+  {
+    "no": 1,
+    "hiragana": "しゅくだいをします",
+    "kanji": "宿題をします",
+    "romanji": "",
+    "translate": "Làm bài tập"
+  },
+  {
+    "no": 1,
+    "hiragana": "テニス",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Tennis"
+  },
+  {
+    "no": 1,
+    "hiragana": "テニスをします",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Chơi tennis"
+  },
+  {
+    "no": 1,
+    "hiragana": "サッカー",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Bóng đá"
+  },
+  {
+    "no": 1,
+    "hiragana": "サッカーをします。",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Chơi bóng đá"
+  },
+  {
+    "no": 1,
+    "hiragana": "「お」はなみ",
+    "kanji": "「お」花見",
+    "romanji": "",
+    "translate": "Việc ngắm hoa"
+  },
+  {
+    "no": 1,
+    "hiragana": "「お」はなみをします",
+    "kanji": "「お」花見をします",
+    "romanji": "",
+    "translate": "Ngắm hoa anh đào"
+  },
+  {
+    "no": 1,
+    "hiragana": "いつも",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Luôn luôn"
+  },
+  {
+    "no": 1,
+    "hiragana": "ときどき",
+    "kanji": "時々",
+    "romanji": "",
+    "translate": "Thỉnh thoảng"
+  }
+]

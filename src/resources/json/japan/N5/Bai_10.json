@@ -1,0 +1,394 @@
+[
+  {
+    "no": 1,
+    "hiragana": "います",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Có (sự tồn tại của người, loài vật)"
+  },
+  {
+    "no": 1,
+    "hiragana": "あります",
+    "kanji": "有ります",
+    "romanji": "",
+    "translate": "Có (sự tồn tại của vật)"
+  },
+  {
+    "no": 1,
+    "hiragana": "いろいろ（な）",
+    "kanji": "色々",
+    "romanji": "",
+    "translate": "Nhiều loại, các loại"
+  },
+  {
+    "no": 1,
+    "hiragana": "うえ",
+    "kanji": "上",
+    "romanji": "",
+    "translate": "Trên"
+  },
+  {
+    "no": 1,
+    "hiragana": "した",
+    "kanji": "下",
+    "romanji": "",
+    "translate": "Dưới"
+  },
+  {
+    "no": 1,
+    "hiragana": "まえ",
+    "kanji": "前",
+    "romanji": "",
+    "translate": "Trước"
+  },
+  {
+    "no": 1,
+    "hiragana": "うしろ",
+    "kanji": "後ろ",
+    "romanji": "",
+    "translate": "Sau"
+  },
+  {
+    "no": 1,
+    "hiragana": "みぎ",
+    "kanji": "右",
+    "romanji": "",
+    "translate": "Phải"
+  },
+  {
+    "no": 1,
+    "hiragana": "ひだり",
+    "kanji": "左",
+    "romanji": "",
+    "translate": "Trái"
+  },
+  {
+    "no": 1,
+    "hiragana": "なか",
+    "kanji": "中",
+    "romanji": "",
+    "translate": "Bên trong"
+  },
+  {
+    "no": 1,
+    "hiragana": "そと",
+    "kanji": "外",
+    "romanji": "",
+    "translate": "Bên ngoài"
+  },
+  {
+    "no": 1,
+    "hiragana": "となり",
+    "kanji": "隣",
+    "romanji": "",
+    "translate": "Bên cạnh"
+  },
+  {
+    "no": 1,
+    "hiragana": "あいだ",
+    "kanji": "間",
+    "romanji": "",
+    "translate": "Giữa"
+  },
+  {
+    "no": 1,
+    "hiragana": "ちかく",
+    "kanji": "近く",
+    "romanji": "",
+    "translate": "Gần"
+  },
+  {
+    "no": 1,
+    "hiragana": "もの",
+    "kanji": "物",
+    "romanji": "",
+    "translate": "Vật, đồ vật"
+  },
+  {
+    "no": 1,
+    "hiragana": "ちず",
+    "kanji": "地図",
+    "romanji": "",
+    "translate": "Bản đồ"
+  },
+  {
+    "no": 1,
+    "hiragana": "けしゴム",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Cục tẩy"
+  },
+  {
+    "no": 1,
+    "hiragana": "セロテープ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Băng dính nhỏ"
+  },
+  {
+    "no": 1,
+    "hiragana": "ホッチキス",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Dập ghim"
+  },
+  {
+    "no": 1,
+    "hiragana": "パスポート",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Hộ chiếu"
+  },
+  {
+    "no": 1,
+    "hiragana": "ベッド",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Giường"
+  },
+  {
+    "no": 1,
+    "hiragana": "おんなのひと",
+    "kanji": "女の人",
+    "romanji": "",
+    "translate": "Con gái"
+  },
+  {
+    "no": 1,
+    "hiragana": "おとこのひと",
+    "kanji": "男の人",
+    "romanji": "",
+    "translate": "Con trai"
+  },
+  {
+    "no": 1,
+    "hiragana": "おんなのこ",
+    "kanji": "女の子",
+    "romanji": "",
+    "translate": "Bé gái"
+  },
+  {
+    "no": 1,
+    "hiragana": "おとこのこ",
+    "kanji": "男の子",
+    "romanji": "",
+    "translate": "Bé trai"
+  },
+  {
+    "no": 1,
+    "hiragana": "レストラン",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Nhà hàng"
+  },
+  {
+    "no": 1,
+    "hiragana": "こうえん",
+    "kanji": "公園",
+    "romanji": "",
+    "translate": "Công viên"
+  },
+  {
+    "no": 1,
+    "hiragana": "たいしかん",
+    "kanji": "大使館",
+    "romanji": "",
+    "translate": "Đại sứ quán"
+  },
+  {
+    "no": 1,
+    "hiragana": "ゆうびんきょく",
+    "kanji": "郵便局",
+    "romanji": "",
+    "translate": "Bưu điện"
+  },
+  {
+    "no": 1,
+    "hiragana": "ポスト",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Hòm thư"
+  },
+  {
+    "no": 1,
+    "hiragana": "ビル",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Tòa nhà"
+  },
+  {
+    "no": 1,
+    "hiragana": "がっこう",
+    "kanji": "学校",
+    "romanji": "",
+    "translate": "Trường học"
+  },
+  {
+    "no": 1,
+    "hiragana": "～や～",
+    "kanji": "",
+    "romanji": "",
+    "translate": "～và～.....vv.."
+  },
+  {
+    "no": 1,
+    "hiragana": "あのう",
+    "kanji": "",
+    "romanji": "",
+    "translate": "à/ờ (biểu thị thái độ do dự e ấp)"
+  },
+  {
+    "no": 1,
+    "hiragana": "いってまいります",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Tôi đi đây (lời chào khi đi ra ngoài)"
+  },
+  {
+    "no": 1,
+    "hiragana": "いってらっしゃい",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Anh đi nhé (lời chào với người đi ra ngoài)."
+  },
+  {
+    "no": 1,
+    "hiragana": "いぬ",
+    "kanji": "犬",
+    "romanji": "",
+    "translate": "Con chó"
+  },
+  {
+    "no": 1,
+    "hiragana": "ねこ",
+    "kanji": "猫",
+    "romanji": "",
+    "translate": "Con mèo"
+  },
+  {
+    "no": 1,
+    "hiragana": "き",
+    "kanji": "木",
+    "romanji": "",
+    "translate": "Cây"
+  },
+  {
+    "no": 1,
+    "hiragana": "でんち",
+    "kanji": "電池",
+    "romanji": "",
+    "translate": "Pin"
+  },
+  {
+    "no": 1,
+    "hiragana": "はこ",
+    "kanji": "箱根",
+    "romanji": "",
+    "translate": "Thùng, hộp"
+  },
+  {
+    "no": 1,
+    "hiragana": "スイッチ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Công tắc"
+  },
+  {
+    "no": 1,
+    "hiragana": "れいぞうこ",
+    "kanji": "冷蔵庫",
+    "romanji": "",
+    "translate": "Tủ lạnh"
+  },
+  {
+    "no": 1,
+    "hiragana": "テーブル",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Bàn tròn"
+  },
+  {
+    "no": 1,
+    "hiragana": "たな",
+    "kanji": "棚",
+    "romanji": "",
+    "translate": "Kệ, giá để đồ"
+  },
+  {
+    "no": 1,
+    "hiragana": "ドア",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Cửa ra vào"
+  },
+  {
+    "no": 1,
+    "hiragana": "まど",
+    "kanji": "窓",
+    "romanji": "",
+    "translate": "Cửa sổ"
+  },
+  {
+    "no": 1,
+    "hiragana": "きっさてん",
+    "kanji": "喫茶店",
+    "romanji": "",
+    "translate": "Quán giải khát"
+  },
+  {
+    "no": 1,
+    "hiragana": "のりば",
+    "kanji": "乗り場",
+    "romanji": "",
+    "translate": "Bến xe, điểm lên xuống xe."
+  },
+  {
+    "no": 1,
+    "hiragana": "コンセント",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Ổ cắm điện."
+  },
+  {
+    "no": 1,
+    "hiragana": "～けん",
+    "kanji": "～県",
+    "romanji": "",
+    "translate": "Tỉnh ～"
+  },
+  {
+    "no": 1,
+    "hiragana": "いちばん",
+    "kanji": "一番",
+    "romanji": "",
+    "translate": "Nhất"
+  },
+  {
+    "no": 1,
+    "hiragana": "いちばんうえ",
+    "kanji": "一番上",
+    "romanji": "",
+    "translate": "Vị trí cao nhất"
+  },
+  {
+    "no": 1,
+    "hiragana": "チリソース",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Tương ớt"
+  },
+  {
+    "no": 1,
+    "hiragana": "おく",
+    "kanji": "奥",
+    "romanji": "",
+    "translate": "Bên trong cùng, phía sâu bên trong."
+  },
+  {
+    "no": 1,
+    "hiragana": "スパイス・コーナー",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Góc gia vị"
+  }
+]

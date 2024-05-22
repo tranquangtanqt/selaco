@@ -1,0 +1,359 @@
+[
+  {
+    "no": 1,
+    "hiragana": "います",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Có (con)"
+  },
+  {
+    "no": 1,
+    "hiragana": "こどもがいます",
+    "kanji": "子供がいます",
+    "romanji": "",
+    "translate": "Có con"
+  },
+  {
+    "no": 1,
+    "hiragana": "います（にほんに）",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Có (tại Nhật)"
+  },
+  {
+    "no": 1,
+    "hiragana": "にほんにいます",
+    "kanji": "日本にいます",
+    "romanji": "",
+    "translate": "Sống tại Nhật"
+  },
+  {
+    "no": 1,
+    "hiragana": "かかります",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Tốn thời gian"
+  },
+  {
+    "no": 1,
+    "hiragana": "ひとつ",
+    "kanji": "一つ",
+    "romanji": "",
+    "translate": "Một cái"
+  },
+  {
+    "no": 1,
+    "hiragana": "ふたつ",
+    "kanji": "二つ",
+    "romanji": "",
+    "translate": "Hai cái"
+  },
+  {
+    "no": 1,
+    "hiragana": "みっつ",
+    "kanji": "三つ",
+    "romanji": "",
+    "translate": "Ba cái"
+  },
+  {
+    "no": 1,
+    "hiragana": "よっつ",
+    "kanji": "四つ",
+    "romanji": "",
+    "translate": "Bốn cái"
+  },
+  {
+    "no": 1,
+    "hiragana": "いつつ",
+    "kanji": "五つ",
+    "romanji": "",
+    "translate": "Năm cái"
+  },
+  {
+    "no": 1,
+    "hiragana": "むっつ",
+    "kanji": "六つ",
+    "romanji": "",
+    "translate": "Sáu cái"
+  },
+  {
+    "no": 1,
+    "hiragana": "ななつ",
+    "kanji": "七つ",
+    "romanji": "",
+    "translate": "Bảy cái"
+  },
+  {
+    "no": 1,
+    "hiragana": "やっつ",
+    "kanji": "八つ",
+    "romanji": "",
+    "translate": "Tám cái"
+  },
+  {
+    "no": 1,
+    "hiragana": "ここのつ",
+    "kanji": "九つ",
+    "romanji": "",
+    "translate": "Chín cái"
+  },
+  {
+    "no": 1,
+    "hiragana": "とお",
+    "kanji": "十",
+    "romanji": "",
+    "translate": "Mười cái"
+  },
+  {
+    "no": 1,
+    "hiragana": "いくつ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Mấy cái"
+  },
+  {
+    "no": 1,
+    "hiragana": "ひとり",
+    "kanji": "一人",
+    "romanji": "",
+    "translate": "1 người"
+  },
+  {
+    "no": 1,
+    "hiragana": "ふたり",
+    "kanji": "二人",
+    "romanji": "",
+    "translate": "2 người"
+  },
+  {
+    "no": 1,
+    "hiragana": "～にん",
+    "kanji": "～人",
+    "romanji": "",
+    "translate": "～ người"
+  },
+  {
+    "no": 1,
+    "hiragana": "～だい",
+    "kanji": "～台",
+    "romanji": "",
+    "translate": "～ Đếm máy móc, vật lớn."
+  },
+  {
+    "no": 1,
+    "hiragana": "～まい",
+    "kanji": "～枚",
+    "romanji": "",
+    "translate": "～ tờ "
+  },
+  {
+    "no": 1,
+    "hiragana": "～かい",
+    "kanji": "～回",
+    "romanji": "",
+    "translate": "～ lần"
+  },
+  {
+    "no": 1,
+    "hiragana": "きょうだい",
+    "kanji": "兄弟",
+    "romanji": "",
+    "translate": "anh, em"
+  },
+  {
+    "no": 1,
+    "hiragana": "きっぷ",
+    "kanji": "切符",
+    "romanji": "",
+    "translate": "Vé"
+  },
+  {
+    "no": 1,
+    "hiragana": "ふうとう",
+    "kanji": "封筒",
+    "romanji": "",
+    "translate": "Phong bì"
+  },
+  {
+    "no": 1,
+    "hiragana": "きって",
+    "kanji": "切手",
+    "romanji": "",
+    "translate": "Vé"
+  },
+  {
+    "no": 1,
+    "hiragana": "エアメール",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Gửi hàng không"
+  },
+  {
+    "no": 1,
+    "hiragana": "にもつ",
+    "kanji": "荷物",
+    "romanji": "",
+    "translate": "Hàng hóa"
+  },
+  {
+    "no": 1,
+    "hiragana": "いちにち",
+    "kanji": "一日",
+    "romanji": "",
+    "translate": "1 ngày"
+  },
+  {
+    "no": 1,
+    "hiragana": "～じかん",
+    "kanji": "～時間",
+    "romanji": "",
+    "translate": "～ tiếng đồng hồ"
+  },
+  {
+    "no": 1,
+    "hiragana": "～しゅうかん",
+    "kanji": "～週間",
+    "romanji": "",
+    "translate": "～ tuần"
+  },
+  {
+    "no": 1,
+    "hiragana": "～かげつ",
+    "kanji": "～ヶ月",
+    "romanji": "",
+    "translate": "～ tháng"
+  },
+  {
+    "no": 1,
+    "hiragana": "～ねん",
+    "kanji": "年",
+    "romanji": "",
+    "translate": "～ năm"
+  },
+  {
+    "no": 1,
+    "hiragana": "どのくらい",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Khoảng bao lâu"
+  },
+  {
+    "no": 1,
+    "hiragana": "～ぐらい",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Khoảng ～"
+  },
+  {
+    "no": 1,
+    "hiragana": "ぜんぶで",
+    "kanji": "全部で",
+    "romanji": "",
+    "translate": "Tất cả, tổng cộng là"
+  },
+  {
+    "no": 1,
+    "hiragana": "～だけ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Chỉ ～ thôi"
+  },
+  {
+    "no": 1,
+    "hiragana": "それから",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Sau đó"
+  },
+  {
+    "no": 1,
+    "hiragana": "サンドイッチ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Bánh sandwich"
+  },
+  {
+    "no": 1,
+    "hiragana": "カレー",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Cà ri"
+  },
+  {
+    "no": 1,
+    "hiragana": "カレーライス",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Món cơm cà ri"
+  },
+  {
+    "no": 1,
+    "hiragana": "アイスクリーム",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Kem"
+  },
+  {
+    "no": 1,
+    "hiragana": "はがき",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Bưu thiếp"
+  },
+  {
+    "no": 1,
+    "hiragana": "そくたつ",
+    "kanji": "速達",
+    "romanji": "",
+    "translate": "Gửi chuyển phát nhanh"
+  },
+  {
+    "no": 1,
+    "hiragana": "かきとめ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Gửi đảm bảo"
+  },
+  {
+    "no": 1,
+    "hiragana": "ふなびん",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Gửi bằng đường biển"
+  },
+  {
+    "no": 1,
+    "hiragana": "りょうしん",
+    "kanji": "両親",
+    "romanji": "",
+    "translate": "Bố mẹ"
+  },
+  {
+    "no": 1,
+    "hiragana": "がいこく",
+    "kanji": "外国",
+    "romanji": "",
+    "translate": "Nước ngoài"
+  },
+  {
+    "no": 1,
+    "hiragana": "みんな",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Tất cả"
+  },
+  {
+    "no": 1,
+    "hiragana": "いい（お）てんきですね。",
+    "kanji": "いい（お）天気ですね。",
+    "romanji": "",
+    "translate": "Trời đẹp nhỉ"
+  },
+  {
+    "no": 1,
+    "hiragana": "（お）でかけですか。",
+    "kanji": "（お）出かけですか。",
+    "romanji": "",
+    "translate": "Anh/ chị ra ngoài đấy à."
+  }
+]

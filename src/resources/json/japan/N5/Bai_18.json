@@ -1,0 +1,212 @@
+[
+  {
+    "no": 1,
+    "hiragana": "できます",
+    "kanji": "出来ます",
+    "romanji": "",
+    "translate": "Có thể"
+  },
+  {
+    "no": 1,
+    "hiragana": "うたいます",
+    "kanji": "歌います",
+    "romanji": "",
+    "translate": "Hát"
+  },
+  {
+    "no": 1,
+    "hiragana": "ひきます",
+    "kanji": "引きます",
+    "romanji": "",
+    "translate": "Kéo, chơi (đàn)"
+  },
+  {
+    "no": 1,
+    "hiragana": "およぎます",
+    "kanji": "泳ぎます",
+    "romanji": "",
+    "translate": "Bơi"
+  },
+  {
+    "no": 1,
+    "hiragana": "なおします",
+    "kanji": "直します",
+    "romanji": "",
+    "translate": "Sửa chữa"
+  },
+  {
+    "no": 1,
+    "hiragana": "うんてんします",
+    "kanji": "運転します",
+    "romanji": "",
+    "translate": "Lái xe"
+  },
+  {
+    "no": 1,
+    "hiragana": "れんしゅうします",
+    "kanji": "練習します",
+    "romanji": "",
+    "translate": "Luyện tập"
+  },
+  {
+    "no": 1,
+    "hiragana": "はじめます",
+    "kanji": "始めます",
+    "romanji": "",
+    "translate": "Bắt đầu"
+  },
+  {
+    "no": 1,
+    "hiragana": "かんたん「な」",
+    "kanji": "簡単「な」",
+    "romanji": "",
+    "translate": "Đơn giản"
+  },
+  {
+    "no": 1,
+    "hiragana": "こしょう",
+    "kanji": "故障",
+    "romanji": "",
+    "translate": "Hỏng, hư hỏng"
+  },
+  {
+    "no": 1,
+    "hiragana": "しゅみ",
+    "kanji": "趣味",
+    "romanji": "",
+    "translate": "Sở thích"
+  },
+  {
+    "no": 1,
+    "hiragana": "ピアノ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Đàn piano"
+  },
+  {
+    "no": 1,
+    "hiragana": "スキー",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Trượt tuyết"
+  },
+  {
+    "no": 1,
+    "hiragana": "～メートル",
+    "kanji": "",
+    "romanji": "",
+    "translate": "~ mét"
+  },
+  {
+    "no": 1,
+    "hiragana": "ドル",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Dola"
+  },
+  {
+    "no": 1,
+    "hiragana": "まだまだ　だめです",
+    "kanji": "まだまだ駄目です",
+    "romanji": "",
+    "translate": "Vẫn còn kém lắm"
+  },
+  {
+    "no": 1,
+    "hiragana": "もっと「れんしゅうし」ないと",
+    "kanji": "もっと「練習し」ないと",
+    "romanji": "",
+    "translate": "Phải luyện tập thêm nữa"
+  },
+  {
+    "no": 1,
+    "hiragana": "あつめます",
+    "kanji": "集めます",
+    "romanji": "",
+    "translate": "Tập trung, thu thập"
+  },
+  {
+    "no": 1,
+    "hiragana": "すてます",
+    "kanji": "捨てます",
+    "romanji": "",
+    "translate": "Vứt"
+  },
+  {
+    "no": 1,
+    "hiragana": "かえます",
+    "kanji": "変えます",
+    "romanji": "",
+    "translate": "Thay đổi"
+  },
+  {
+    "no": 1,
+    "hiragana": "よやくします",
+    "kanji": "予約します",
+    "romanji": "",
+    "translate": "Đặt trước"
+  },
+  {
+    "no": 1,
+    "hiragana": "へやをよやくします",
+    "kanji": "部屋を予約します",
+    "romanji": "",
+    "translate": "Đặt phòng trước"
+  },
+  {
+    "no": 1,
+    "hiragana": "げんきん",
+    "kanji": "現金",
+    "romanji": "",
+    "translate": "Tiền mặt"
+  },
+  {
+    "no": 1,
+    "hiragana": "にっき",
+    "kanji": "日記",
+    "romanji": "",
+    "translate": "Nhật ký"
+  },
+  {
+    "no": 1,
+    "hiragana": "「お」いのり",
+    "kanji": "「お」祈り",
+    "romanji": "",
+    "translate": "Việc cầu nguyện"
+  },
+  {
+    "no": 1,
+    "hiragana": "いのりをします",
+    "kanji": "祈りをします",
+    "romanji": "",
+    "translate": "Cầu nguyện"
+  },
+  {
+    "no": 1,
+    "hiragana": "かちょう",
+    "kanji": "課長",
+    "romanji": "",
+    "translate": "Tổ trưởng"
+  },
+  {
+    "no": 1,
+    "hiragana": "ぶちょう",
+    "kanji": "部長",
+    "romanji": "",
+    "translate": "Trưởng phòng"
+  },
+  {
+    "no": 1,
+    "hiragana": "しゃちょう",
+    "kanji": "社長",
+    "romanji": "",
+    "translate": "Giám đốc"
+  },
+  {
+    "no": 1,
+    "hiragana": "ほんとうですか。",
+    "kanji": "本当ですか。",
+    "romanji": "",
+    "translate": "Có thật không?"
+  }
+]

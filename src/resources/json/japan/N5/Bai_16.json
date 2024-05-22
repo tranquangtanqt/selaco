@@ -1,0 +1,366 @@
+[
+  {
+    "no": 1,
+    "hiragana": "あるきます",
+    "kanji": "歩きます",
+    "romanji": "",
+    "translate": "Đi bộ"
+  },
+  {
+    "no": 1,
+    "hiragana": "のります",
+    "kanji": "乗ります",
+    "romanji": "",
+    "translate": "Leo lên"
+  },
+  {
+    "no": 1,
+    "hiragana": "でんしゃにのります",
+    "kanji": "電車に乗ります",
+    "romanji": "",
+    "translate": "Lên tàu"
+  },
+  {
+    "no": 1,
+    "hiragana": "おります",
+    "kanji": "降ります",
+    "romanji": "",
+    "translate": "Xuống"
+  },
+  {
+    "no": 1,
+    "hiragana": "バスをおります",
+    "kanji": "バスを乗ります",
+    "romanji": "",
+    "translate": "Xuống xe buýt"
+  },
+  {
+    "no": 1,
+    "hiragana": "のりかえます",
+    "kanji": "乗り換えます",
+    "romanji": "",
+    "translate": "Đổi tàu, xe"
+  },
+  {
+    "no": 1,
+    "hiragana": "しょくじします",
+    "kanji": "食事します",
+    "romanji": "",
+    "translate": "Dùng bữa"
+  },
+  {
+    "no": 1,
+    "hiragana": "あらいます",
+    "kanji": "洗います",
+    "romanji": "",
+    "translate": "Rửa, giặt"
+  },
+  {
+    "no": 1,
+    "hiragana": "あびます",
+    "kanji": "浴びます",
+    "romanji": "",
+    "translate": "Tắm"
+  },
+  {
+    "no": 1,
+    "hiragana": "シャワーをあびます",
+    "kanji": "シャワーを浴びます",
+    "romanji": "",
+    "translate": "Tắm vòi hoa sen"
+  },
+  {
+    "no": 1,
+    "hiragana": "ながい",
+    "kanji": "長い",
+    "romanji": "",
+    "translate": "Dài"
+  },
+  {
+    "no": 1,
+    "hiragana": "みじかい",
+    "kanji": "短い",
+    "romanji": "",
+    "translate": "Ngắn"
+  },
+  {
+    "no": 1,
+    "hiragana": "おもい",
+    "kanji": "重い",
+    "romanji": "",
+    "translate": "Nặng"
+  },
+  {
+    "no": 1,
+    "hiragana": "かるい",
+    "kanji": "軽い",
+    "romanji": "",
+    "translate": "Nhẹ"
+  },
+  {
+    "no": 1,
+    "hiragana": "ひろい",
+    "kanji": "広い",
+    "romanji": "",
+    "translate": "Rộng"
+  },
+  {
+    "no": 1,
+    "hiragana": "せまい",
+    "kanji": "狭い",
+    "romanji": "",
+    "translate": "Hẹp"
+  },
+  {
+    "no": 1,
+    "hiragana": "あかるい",
+    "kanji": "明るい",
+    "romanji": "",
+    "translate": "Sáng sủa"
+  },
+  {
+    "no": 1,
+    "hiragana": "くらい",
+    "kanji": "暗い",
+    "romanji": "",
+    "translate": "Tối"
+  },
+  {
+    "no": 1,
+    "hiragana": "せがたかい",
+    "kanji": "背が高い",
+    "romanji": "",
+    "translate": "Cao"
+  },
+  {
+    "no": 1,
+    "hiragana": "せがひくい",
+    "kanji": "背が低い",
+    "romanji": "",
+    "translate": "Thấp"
+  },
+  {
+    "no": 1,
+    "hiragana": "からだ",
+    "kanji": "体",
+    "romanji": "",
+    "translate": "Cơ thể"
+  },
+  {
+    "no": 1,
+    "hiragana": "かお",
+    "kanji": "顔",
+    "romanji": "",
+    "translate": "Đầu"
+  },
+  {
+    "no": 1,
+    "hiragana": "め",
+    "kanji": "目",
+    "romanji": "",
+    "translate": "Mắt"
+  },
+  {
+    "no": 1,
+    "hiragana": "はな",
+    "kanji": "鼻",
+    "romanji": "",
+    "translate": "Mũi"
+  },
+  {
+    "no": 1,
+    "hiragana": "くち",
+    "kanji": "口",
+    "romanji": "",
+    "translate": "Miệng"
+  },
+  {
+    "no": 1,
+    "hiragana": "みみ",
+    "kanji": "耳",
+    "romanji": "",
+    "translate": "Tai"
+  },
+  {
+    "no": 1,
+    "hiragana": "は",
+    "kanji": "歯",
+    "romanji": "",
+    "translate": "Răng"
+  },
+  {
+    "no": 1,
+    "hiragana": "かみ",
+    "kanji": "髪",
+    "romanji": "",
+    "translate": "Tóc"
+  },
+  {
+    "no": 1,
+    "hiragana": "て",
+    "kanji": "手",
+    "romanji": "",
+    "translate": "Tay"
+  },
+  {
+    "no": 1,
+    "hiragana": "あし",
+    "kanji": "足",
+    "romanji": "",
+    "translate": "Chân"
+  },
+  {
+    "no": 1,
+    "hiragana": "シャワー",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Vòi hoa sen"
+  },
+  {
+    "no": 1,
+    "hiragana": "ハンバーガー",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Hambaga"
+  },
+  {
+    "no": 1,
+    "hiragana": "～ばん",
+    "kanji": "～番",
+    "romanji": "",
+    "translate": "Số ～"
+  },
+  {
+    "no": 1,
+    "hiragana": "どの～",
+    "kanji": "",
+    "romanji": "",
+    "translate": "～ nào"
+  },
+  {
+    "no": 1,
+    "hiragana": "どうやって",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Bằng cách nào"
+  },
+  {
+    "no": 1,
+    "hiragana": "いろいろ",
+    "kanji": "色々",
+    "romanji": "",
+    "translate": "Nhiều, đa dạng, phong phú"
+  },
+  {
+    "no": 1,
+    "hiragana": "～ごろ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Khoảng ～"
+  },
+  {
+    "no": 1,
+    "hiragana": "なんでもいいです",
+    "kanji": "何でもいいです",
+    "romanji": "",
+    "translate": "Cái gì cũng được"
+  },
+  {
+    "no": 1,
+    "hiragana": "なんにしますか",
+    "kanji": "何にしますか。",
+    "romanji": "",
+    "translate": "Bạn chọn thứ gì? (ăn, uống)"
+  },
+  {
+    "no": 1,
+    "hiragana": "「それ」にします",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Tôi chọn món (món đó)"
+  },
+  {
+    "no": 1,
+    "hiragana": "ええと。。。",
+    "kanji": "",
+    "romanji": "",
+    "translate": "À ... suy nghĩ khi nói tiếp."
+  },
+  {
+    "no": 1,
+    "hiragana": "いれます",
+    "kanji": "入れます",
+    "romanji": "",
+    "translate": "Cho vào"
+  },
+  {
+    "no": 1,
+    "hiragana": "だします",
+    "kanji": "出します",
+    "romanji": "",
+    "translate": "Đưa ra"
+  },
+  {
+    "no": 1,
+    "hiragana": "はいります",
+    "kanji": "入ります",
+    "romanji": "",
+    "translate": "Đi vào, vào (công ty, trường học)"
+  },
+  {
+    "no": 1,
+    "hiragana": "だいがくにはいります",
+    "kanji": "大学に入ります",
+    "romanji": "",
+    "translate": "Vào đại học"
+  },
+  {
+    "no": 1,
+    "hiragana": "やめます",
+    "kanji": "辞めます",
+    "romanji": "",
+    "translate": "Bỏ, nghỉ"
+  },
+  {
+    "no": 1,
+    "hiragana": "かいしゃをやめます",
+    "kanji": "会社を辞めます",
+    "romanji": "",
+    "translate": "Bỏ việc"
+  },
+  {
+    "no": 1,
+    "hiragana": "わかい",
+    "kanji": "若い",
+    "romanji": "",
+    "translate": "Trẻ"
+  },
+  {
+    "no": 1,
+    "hiragana": "あたまがいい",
+    "kanji": "頭がいい",
+    "romanji": "",
+    "translate": "Thông minh"
+  },
+  {
+    "no": 1,
+    "hiragana": "サービス",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Sự phục vụ"
+  },
+  {
+    "no": 1,
+    "hiragana": "ジョギング",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Chạy bộ"
+  },
+  {
+    "no": 1,
+    "hiragana": "だいがくを　でます",
+    "kanji": "大学を出ます",
+    "romanji": "",
+    "translate": "Ra trường"
+  }
+]

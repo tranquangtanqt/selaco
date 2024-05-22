@@ -1,0 +1,191 @@
+[
+  {
+    "no": 1,
+    "hiragana": "くれます",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Cho, biếu, tặng (ai đó cho tặng mình)"
+  },
+  {
+    "no": 1,
+    "hiragana": "せつめいします",
+    "kanji": "説明します",
+    "romanji": "",
+    "translate": "Giải thích"
+  },
+  {
+    "no": 1,
+    "hiragana": "コピーします",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Photo copy"
+  },
+  {
+    "no": 1,
+    "hiragana": "あんないします",
+    "kanji": "案内します",
+    "romanji": "",
+    "translate": "Hướng dẫn, dẫn đường"
+  },
+  {
+    "no": 1,
+    "hiragana": "しょうかいします",
+    "kanji": "紹介します",
+    "romanji": "",
+    "translate": "Giới thiệu"
+  },
+  {
+    "no": 1,
+    "hiragana": "つれていきます",
+    "kanji": "連れて行きます",
+    "romanji": "",
+    "translate": "Dẫn đi"
+  },
+  {
+    "no": 1,
+    "hiragana": "つれてきます",
+    "kanji": "連れて来ます",
+    "romanji": "",
+    "translate": "Dẫn đến"
+  },
+  {
+    "no": 1,
+    "hiragana": "おくります",
+    "kanji": "送ります",
+    "romanji": "",
+    "translate": "Tiễn (người, năm cũ)"
+  },
+  {
+    "no": 1,
+    "hiragana": "ともだちをおくります",
+    "kanji": "友達を送ります。",
+    "romanji": "",
+    "translate": "Tiễn bạn"
+  },
+  {
+    "no": 1,
+    "hiragana": "しらべます",
+    "kanji": "調べます",
+    "romanji": "",
+    "translate": "Điều tra"
+  },
+  {
+    "no": 1,
+    "hiragana": "おかし",
+    "kanji": "お菓子",
+    "romanji": "",
+    "translate": "Kẹo, bánh"
+  },
+  {
+    "no": 1,
+    "hiragana": "にんぎょう",
+    "kanji": "人形",
+    "romanji": "",
+    "translate": "Búp bê"
+  },
+  {
+    "no": 1,
+    "hiragana": "めいし",
+    "kanji": "名刺",
+    "romanji": "",
+    "translate": "Danh thiếp"
+  },
+  {
+    "no": 1,
+    "hiragana": "とうきょうタワー",
+    "kanji": "東京タワー",
+    "romanji": "",
+    "translate": "Tháp Tokyo"
+  },
+  {
+    "no": 1,
+    "hiragana": "おおさかじょう",
+    "kanji": "大阪城",
+    "romanji": "",
+    "translate": "Thành Osaka"
+  },
+  {
+    "no": 1,
+    "hiragana": "じぶんで",
+    "kanji": "自分で",
+    "romanji": "",
+    "translate": "Tự mình"
+  },
+  {
+    "no": 1,
+    "hiragana": "このあいだ",
+    "kanji": "この間",
+    "romanji": "",
+    "translate": "Mấy hôm trước, vừa qua"
+  },
+  {
+    "no": 1,
+    "hiragana": "ほんとうですか.",
+    "kanji": "本当ですか.",
+    "romanji": "",
+    "translate": "Thật không"
+  },
+  {
+    "no": 1,
+    "hiragana": "がんばってください",
+    "kanji": "頑張って下さい",
+    "romanji": "",
+    "translate": "Hãy cố gắng lên"
+  },
+  {
+    "no": 1,
+    "hiragana": "コーヒーをいれます",
+    "kanji": "コーヒーを入れます",
+    "romanji": "",
+    "translate": "Pha cafe"
+  },
+  {
+    "no": 1,
+    "hiragana": "じゅんびします",
+    "kanji": "準備します",
+    "romanji": "",
+    "translate": "Chuẩn bị"
+  },
+  {
+    "no": 1,
+    "hiragana": "じゅんび",
+    "kanji": "準備",
+    "romanji": "",
+    "translate": "Sự chuẩn bị"
+  },
+  {
+    "no": 1,
+    "hiragana": "おじいさん/おじいちゃん",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Ông, ông nội, ngoại"
+  },
+  {
+    "no": 1,
+    "hiragana": "おばあさん/おばあちゃん",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Bà, bà nội, ngoại"
+  },
+  {
+    "no": 1,
+    "hiragana": "ほかに",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Ngoài ra, bên cạnh đó"
+  },
+  {
+    "no": 1,
+    "hiragana": "「お」べんとう",
+    "kanji": "「お」弁当",
+    "romanji": "",
+    "translate": "Cơm hộp "
+  },
+  {
+    "no": 1,
+    "hiragana": "ワゴンしゃ",
+    "kanji": "ワゴン車",
+    "romanji": "",
+    "translate": "Xe ô tô có thùng đóng kính"
+  }
+]

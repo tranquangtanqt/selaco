@@ -1,0 +1,156 @@
+[
+  {
+    "no": 1,
+    "hiragana": "けんせつ",
+    "kanji": "建設",
+    "romanji": "",
+    "translate": "Xây dựng"
+  },
+  {
+    "no": 1,
+    "hiragana": "せいぞう",
+    "kanji": "製造",
+    "romanji": "",
+    "translate": "Chế tạo"
+  },
+  {
+    "no": 1,
+    "hiragana": "こうぞう",
+    "kanji": "構造",
+    "romanji": "",
+    "translate": "Cấu tạo"
+  },
+  {
+    "no": 1,
+    "hiragana": "せっけい",
+    "kanji": "設計",
+    "romanji": "",
+    "translate": "Thiết kế"
+  },
+  {
+    "no": 1,
+    "hiragana": "ちゅうぞう",
+    "kanji": "鋳造",
+    "romanji": "",
+    "translate": "Đúc"
+  },
+  {
+    "no": 1,
+    "hiragana": "かながた",
+    "kanji": "金型",
+    "romanji": "",
+    "translate": "Khuôn"
+  },
+  {
+    "no": 1,
+    "hiragana": "ばんきん",
+    "kanji": "板金",
+    "romanji": "",
+    "translate": "Tấm kim loại"
+  },
+  {
+    "no": 1,
+    "hiragana": "かこう",
+    "kanji": "加工",
+    "romanji": "",
+    "translate": "Gia công"
+  },
+  {
+    "no": 1,
+    "hiragana": "ようせつ",
+    "kanji": "溶接",
+    "romanji": "",
+    "translate": "Hàn"
+  },
+  {
+    "no": 1,
+    "hiragana": "とそう",
+    "kanji": "塗装",
+    "romanji": "",
+    "translate": "Sơn, quét, nhuộm"
+  },
+  {
+    "no": 1,
+    "hiragana": "くみたて",
+    "kanji": "組立",
+    "romanji": "",
+    "translate": "Lắp rắp"
+  },
+  {
+    "no": 1,
+    "hiragana": "けんさ",
+    "kanji": "検査",
+    "romanji": "",
+    "translate": "Kiểm tra"
+  },
+  {
+    "no": 1,
+    "hiragana": "せいび",
+    "kanji": "整備",
+    "romanji": "",
+    "translate": "Bão dưỡng"
+  },
+  {
+    "no": 1,
+    "hiragana": "ぶんせき",
+    "kanji": "分析",
+    "romanji": "",
+    "translate": "Phân tích"
+  },
+  {
+    "no": 1,
+    "hiragana": "そうさ",
+    "kanji": "操作",
+    "romanji": "",
+    "translate": "Thao tác"
+  },
+  {
+    "no": 1,
+    "hiragana": "はんばい",
+    "kanji": "販売",
+    "romanji": "",
+    "translate": "Bán hàng, mua bán"
+  },
+  {
+    "no": 1,
+    "hiragana": "こうじょうかんり",
+    "kanji": "工場管理",
+    "romanji": "",
+    "translate": "Quản lý nhà máy"
+  },
+  {
+    "no": 1,
+    "hiragana": "せいさんかんり",
+    "kanji": "生産管理",
+    "romanji": "",
+    "translate": "Quản lý sản xuất"
+  },
+  {
+    "no": 1,
+    "hiragana": "こうていかんり",
+    "kanji": "工程管理",
+    "romanji": "",
+    "translate": "Quản lý công trình"
+  },
+  {
+    "no": 1,
+    "hiragana": "ひんしつかんり",
+    "kanji": "品質管理",
+    "romanji": "",
+    "translate": "Quản lý phẩm chất (chất lượng)"
+  },
+  {
+    "no": 1,
+    "hiragana": "ざいこかんり",
+    "kanji": "在庫管理",
+    "romanji": "",
+    "translate": "Quản lý tồn kho"
+  },
+  {
+    "no": 1,
+    "hiragana": "コンピューターのソフトウエア",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Phần mềm máy tính"
+  }
+]

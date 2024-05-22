@@ -1,0 +1,345 @@
+[
+  {
+    "no": 1,
+    "hiragana": "ここ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Chỗ này"
+  },
+  {
+    "no": 1,
+    "hiragana": "そこ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Chỗ đó"
+  },
+  {
+    "no": 1,
+    "hiragana": "あそこ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Chỗ kia"
+  },
+  {
+    "no": 1,
+    "hiragana": "どこ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Chỗ nào"
+  },
+  {
+    "no": 1,
+    "hiragana": "こちら",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Phía này, đằng này, chỗ này (cách nói lịch sự của ここ)"
+  },
+  {
+    "no": 1,
+    "hiragana": "そちら",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Phía đó, đằng đó, chỗ đó (cách nói lịch sự của そこ)"
+  },
+  {
+    "no": 1,
+    "hiragana": "あちら",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Phía kia, đằng kia, chỗ kia (cách nói lịch sự của あそこ)"
+  },
+  {
+    "no": 1,
+    "hiragana": "どちら",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Phía nào, đằng nào, chỗ nào (cách nói lịch sự của どこ)"
+  },
+  {
+    "no": 1,
+    "hiragana": "きょうしつ",
+    "kanji": "教室",
+    "romanji": "",
+    "translate": "Lớp học"
+  },
+  {
+    "no": 1,
+    "hiragana": "しょくどう",
+    "kanji": "食堂",
+    "romanji": "",
+    "translate": "Nhà ăn"
+  },
+  {
+    "no": 1,
+    "hiragana": "おてあらい（トイレ）",
+    "kanji": "お手洗い",
+    "romanji": "",
+    "translate": "Nhà vệ sinh"
+  },
+  {
+    "no": 1,
+    "hiragana": "ロビー",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Phòng chờ, phòng đợi"
+  },
+  {
+    "no": 1,
+    "hiragana": "うけつけ",
+    "kanji": "受付",
+    "romanji": "",
+    "translate": "Quầy tiếp tân"
+  },
+  {
+    "no": 1,
+    "hiragana": "じむしょ",
+    "kanji": "事務所",
+    "romanji": "",
+    "translate": "Văn phòng"
+  },
+  {
+    "no": 1,
+    "hiragana": "へや",
+    "kanji": "部屋",
+    "romanji": "",
+    "translate": "Phòng"
+  },
+  {
+    "no": 1,
+    "hiragana": "にわ",
+    "kanji": "庭",
+    "romanji": "",
+    "translate": "Sân, vườn"
+  },
+  {
+    "no": 1,
+    "hiragana": "「けんしゅう」センター",
+    "kanji": "「研修」センター",
+    "romanji": "",
+    "translate": "Trung tâm「thực tập」 "
+  },
+  {
+    "no": 1,
+    "hiragana": "エレベーター",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Thang máy"
+  },
+  {
+    "no": 1,
+    "hiragana": "うち",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Nhà"
+  },
+  {
+    "no": 1,
+    "hiragana": "「お」くに",
+    "kanji": "「お」国",
+    "romanji": "",
+    "translate": "Đất nước"
+  },
+  {
+    "no": 1,
+    "hiragana": "かいしゃ",
+    "kanji": "会社",
+    "romanji": "",
+    "translate": "Công ty"
+  },
+  {
+    "no": 1,
+    "hiragana": "うりば",
+    "kanji": "売り場",
+    "romanji": "",
+    "translate": "Chợ"
+  },
+  {
+    "no": 1,
+    "hiragana": "～かい",
+    "kanji": "～階",
+    "romanji": "",
+    "translate": "Tầng～"
+  },
+  {
+    "no": 1,
+    "hiragana": "なんがい",
+    "kanji": "何階",
+    "romanji": "",
+    "translate": "Tầng mấy"
+  },
+  {
+    "no": 1,
+    "hiragana": "～えん",
+    "kanji": "～円",
+    "romanji": "",
+    "translate": "～yên"
+  },
+  {
+    "no": 1,
+    "hiragana": "いくら",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Bao nhiêu tiền"
+  },
+  {
+    "no": 1,
+    "hiragana": "ひゃく",
+    "kanji": "百",
+    "romanji": "",
+    "translate": "Trăm"
+  },
+  {
+    "no": 1,
+    "hiragana": "せん",
+    "kanji": "千",
+    "romanji": "",
+    "translate": "Nghìn"
+  },
+  {
+    "no": 1,
+    "hiragana": "まん",
+    "kanji": "万",
+    "romanji": "",
+    "translate": "Vạn"
+  },
+  {
+    "no": 1,
+    "hiragana": "アメリカ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Mỹ"
+  },
+  {
+    "no": 1,
+    "hiragana": "イギリス",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Anh"
+  },
+  {
+    "no": 1,
+    "hiragana": "「ちょっと」すみません。",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Xin lỗi 「một chút」"
+  },
+  {
+    "no": 1,
+    "hiragana": "どうも",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Cảm ơn (dùng khi cảm ơn nhẹ nhàng)."
+  },
+  {
+    "no": 1,
+    "hiragana": "いらっしゃい「ませ」",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Kính mời vào (dùng khi chào với khách)."
+  },
+  {
+    "no": 1,
+    "hiragana": "じゃ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Thôi, vậy thì…"
+  },
+  {
+    "no": 1,
+    "hiragana": "「これ」ください。",
+    "kanji": "「これ」下さい。",
+    "romanji": "",
+    "translate": "Xin cho tôi cái này"
+  },
+  {
+    "no": 1,
+    "hiragana": "かいぎしつ",
+    "kanji": "会議室",
+    "romanji": "",
+    "translate": "Phòng họp"
+  },
+  {
+    "no": 1,
+    "hiragana": "エスカレーター",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Thang cuốn"
+  },
+  {
+    "no": 1,
+    "hiragana": "くつ",
+    "kanji": "靴",
+    "romanji": "",
+    "translate": "Giầy"
+  },
+  {
+    "no": 1,
+    "hiragana": "ワイン",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Rượu"
+  },
+  {
+    "no": 1,
+    "hiragana": "ちか",
+    "kanji": "地下",
+    "romanji": "",
+    "translate": "Tầng hầm"
+  },
+  {
+    "no": 1,
+    "hiragana": "スイス",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Thụy Sĩ"
+  },
+  {
+    "no": 1,
+    "hiragana": "イタリア",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Ý"
+  },
+  {
+    "no": 1,
+    "hiragana": "～でございます。",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Cách nói lịch sự củaです。"
+  },
+  {
+    "no": 1,
+    "hiragana": "「～を」みせてください",
+    "kanji": "見せて下さい",
+    "romanji": "",
+    "translate": "Hãy cho tôi xem"
+  },
+  {
+    "no": 1,
+    "hiragana": "じょうぎ",
+    "kanji": "定規",
+    "romanji": "",
+    "translate": "Thước"
+  },
+  {
+    "no": 1,
+    "hiragana": "まず",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Đầu tiên"
+  },
+  {
+    "no": 1,
+    "hiragana": "たかい",
+    "kanji": "高い",
+    "romanji": "",
+    "translate": "Đắt"
+  },
+  {
+    "no": 1,
+    "hiragana": "やすい",
+    "kanji": "安い",
+    "romanji": "",
+    "translate": "Rẻ"
+  }
+]

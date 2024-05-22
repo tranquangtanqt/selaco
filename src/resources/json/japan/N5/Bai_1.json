@@ -1,0 +1,317 @@
+[
+  {
+    "no": 1,
+    "hiragana": "わたし",
+    "kanji": "私",
+    "romanji": "",
+    "translate": "Tôi"
+  },
+  {
+    "no": 1,
+    "hiragana": "わたしたち",
+    "kanji": "私達",
+    "romanji": "",
+    "translate": "Chúng tôi, chúng ta."
+  },
+  {
+    "no": 1,
+    "hiragana": "あなた",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Ông, bà, anh, chị, cô..."
+  },
+  {
+    "no": 1,
+    "hiragana": "あのひと",
+    "kanji": "あの人",
+    "romanji": "",
+    "translate": "Người ấy, người kia"
+  },
+  {
+    "no": 1,
+    "hiragana": "みなさん",
+    "kanji": "皆さん",
+    "romanji": "",
+    "translate": "Các anh, các chị, các bạn..."
+  },
+  {
+    "no": 1,
+    "hiragana": "せんせい",
+    "kanji": "先生",
+    "romanji": "",
+    "translate": "Thầy giáo, cô giáo."
+  },
+  {
+    "no": 1,
+    "hiragana": "けんしゅうせい",
+    "kanji": "研修生",
+    "romanji": "",
+    "translate": "Tu nghiệp sinh"
+  },
+  {
+    "no": 1,
+    "hiragana": "～さん",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Ông～, bà~, anh~, chị~, cô ~..."
+  },
+  {
+    "no": 1,
+    "hiragana": "だれ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Ai"
+  },
+  {
+    "no": 1,
+    "hiragana": "どなた",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Vị nào (cách nói lịch sự của だれ)"
+  },
+  {
+    "no": 1,
+    "hiragana": "はい",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Vâng, dạ"
+  },
+  {
+    "no": 1,
+    "hiragana": "いいえ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Không"
+  },
+  {
+    "no": 1,
+    "hiragana": "でんき",
+    "kanji": "電気",
+    "romanji": "",
+    "translate": "Điện"
+  },
+  {
+    "no": 1,
+    "hiragana": "きかい",
+    "kanji": "機械",
+    "romanji": "",
+    "translate": "Máy, máy móc"
+  },
+  {
+    "no": 1,
+    "hiragana": "じどうしゃ",
+    "kanji": "自動車",
+    "romanji": "",
+    "translate": "Xe hơi"
+  },
+  {
+    "no": 1,
+    "hiragana": "コンピューター",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Máy vi tính"
+  },
+  {
+    "no": 1,
+    "hiragana": "せんもん",
+    "kanji": "専門",
+    "romanji": "",
+    "translate": "Chuyên môn"
+  },
+  {
+    "no": 1,
+    "hiragana": "～さい",
+    "kanji": "歳",
+    "romanji": "",
+    "translate": "～tuổi"
+  },
+  {
+    "no": 1,
+    "hiragana": "なんさい",
+    "kanji": "何歳",
+    "romanji": "",
+    "translate": "Bao nhiêu tuổi"
+  },
+  {
+    "no": 1,
+    "hiragana": "おいくつ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Cách nói lịch sự của なんさい"
+  },
+  {
+    "no": 1,
+    "hiragana": "にほん",
+    "kanji": "日本",
+    "romanji": "",
+    "translate": "Nhật Bản"
+  },
+  {
+    "no": 1,
+    "hiragana": "インド",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Ấn Độ"
+  },
+  {
+    "no": 1,
+    "hiragana": "インドネシア",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Indonesia"
+  },
+  {
+    "no": 1,
+    "hiragana": "かんこく",
+    "kanji": "韓国",
+    "romanji": "",
+    "translate": "Hàn Quốc"
+  },
+  {
+    "no": 1,
+    "hiragana": "ちゅうごく",
+    "kanji": "中国",
+    "romanji": "",
+    "translate": "Trung Quốc"
+  },
+  {
+    "no": 1,
+    "hiragana": "フィリピン",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Philippin"
+  },
+  {
+    "no": 1,
+    "hiragana": "タイ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Thái Lan"
+  },
+  {
+    "no": 1,
+    "hiragana": "マレーシア",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Malaysia"
+  },
+  {
+    "no": 1,
+    "hiragana": "～じん",
+    "kanji": "～人",
+    "romanji": "",
+    "translate": "～Người"
+  },
+  {
+    "no": 1,
+    "hiragana": "おはようございます。",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Chào buổi sáng"
+  },
+  {
+    "no": 1,
+    "hiragana": "はじめまして",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Chào lần đầu tiên gặp mặt"
+  },
+  {
+    "no": 1,
+    "hiragana": "どうぞよろしくおねがいいたします。",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Rất mong nhận được sự giúp đỡ."
+  },
+  {
+    "no": 1,
+    "hiragana": "きょうし",
+    "kanji": "教師",
+    "romanji": "",
+    "translate": "Giáo viên"
+  },
+  {
+    "no": 1,
+    "hiragana": "がくせい",
+    "kanji": "学生",
+    "romanji": "",
+    "translate": "Học sinh"
+  },
+  {
+    "no": 1,
+    "hiragana": "いしゃ",
+    "kanji": "医者",
+    "romanji": "",
+    "translate": "Bác sĩ"
+  },
+  {
+    "no": 1,
+    "hiragana": "かいしゃいん",
+    "kanji": "会社員",
+    "romanji": "",
+    "translate": "Nhân viên công ty"
+  },
+  {
+    "no": 1,
+    "hiragana": "しゃいん",
+    "kanji": "社員",
+    "romanji": "",
+    "translate": "Nhân viên công ty (dùng khi nói thuộc công ty nào.\r\n(れい：ノキアのしゃいん)"
+  },
+  {
+    "no": 1,
+    "hiragana": "ドイツ",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Đức"
+  },
+  {
+    "no": 1,
+    "hiragana": "フランス",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Pháp"
+  },
+  {
+    "no": 1,
+    "hiragana": "ブラジル",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Brazin"
+  },
+  {
+    "no": 1,
+    "hiragana": "だいがく",
+    "kanji": "大学",
+    "romanji": "",
+    "translate": "Đại học, trường đại học"
+  },
+  {
+    "no": 1,
+    "hiragana": "びょういん",
+    "kanji": "病院",
+    "romanji": "",
+    "translate": "Bệnh viện"
+  },
+  {
+    "no": 1,
+    "hiragana": "かいしゃ",
+    "kanji": "会社",
+    "romanji": "",
+    "translate": "Công ty"
+  },
+  {
+    "no": 1,
+    "hiragana": "しつれいですがおなまえは？",
+    "kanji": "失礼ですがお名前は？",
+    "romanji": "",
+    "translate": "Xin lỗi, tên anh chị là gì."
+  },
+  {
+    "no": 1,
+    "hiragana": "～からきました",
+    "kanji": "～から来ました",
+    "romanji": "",
+    "translate": "Tôi đến từ～"
+  }
+]

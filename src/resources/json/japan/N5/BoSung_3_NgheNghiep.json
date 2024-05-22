@@ -1,0 +1,100 @@
+[
+  {
+    "no": 1,
+    "hiragana": "ぎじゅつしゃ",
+    "kanji": "技術者",
+    "romanji": "",
+    "translate": "Kỹ thuật viên"
+  },
+  {
+    "no": 1,
+    "hiragana": "きょうし",
+    "kanji": "教師",
+    "romanji": "",
+    "translate": "Giáo viên"
+  },
+  {
+    "no": 1,
+    "hiragana": "けいかん",
+    "kanji": "警官",
+    "romanji": "",
+    "translate": "Cảnh sát"
+  },
+  {
+    "no": 1,
+    "hiragana": "いしゃ",
+    "kanji": "医者",
+    "romanji": "",
+    "translate": "Bác sĩ"
+  },
+  {
+    "no": 1,
+    "hiragana": "かんごふ",
+    "kanji": "看護婦",
+    "romanji": "",
+    "translate": "Nữ y tá"
+  },
+  {
+    "no": 1,
+    "hiragana": "つうやく",
+    "kanji": "通訳",
+    "romanji": "",
+    "translate": "Phiên dịch"
+  },
+  {
+    "no": 1,
+    "hiragana": "サラリーマン",
+    "kanji": "",
+    "romanji": "",
+    "translate": "Người làm công ăn lương"
+  },
+  {
+    "no": 1,
+    "hiragana": "こうむいん",
+    "kanji": "公務員",
+    "romanji": "",
+    "translate": "Công chức nhà nước"
+  },
+  {
+    "no": 1,
+    "hiragana": "しょくいん",
+    "kanji": "職員",
+    "romanji": "",
+    "translate": "Nhân viên"
+  },
+  {
+    "no": 1,
+    "hiragana": "じむいん",
+    "kanji": "事務員",
+    "romanji": "",
+    "translate": "Nhân viên văn phòng"
+  },
+  {
+    "no": 1,
+    "hiragana": "えきいん",
+    "kanji": "駅員",
+    "romanji": "",
+    "translate": "Nhân viên nhà ga"
+  },
+  {
+    "no": 1,
+    "hiragana": "てんいん",
+    "kanji": "店員",
+    "romanji": "",
+    "translate": "Nhân viên cửa hàng"
+  },
+  {
+    "no": 1,
+    "hiragana": "うんてんしゅ",
+    "kanji": "運転手",
+    "romanji": "",
+    "translate": "Người lái xe"
+  },
+  {
+    "no": 1,
+    "hiragana": "しゅえい",
+    "kanji": "守衛",
+    "romanji": "",
+    "translate": "Bảo vệ"
+  }
+]
