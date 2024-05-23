@@ -10,7 +10,7 @@ export const NAVBAR_LEFT = [
     children: [
       {
         id: 0,
-        link: '/hocvien',
+        link: '/student',
         text: 'Học viên',
         active: false,
       },

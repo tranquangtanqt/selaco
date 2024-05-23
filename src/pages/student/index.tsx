@@ -2,8 +2,11 @@ import AxiosClient from 'api/axios-client';
 import { useState, useRef, useEffect } from 'react';
 import useGoogleSheets from 'use-google-sheets';
 import { StudentDto } from './dto/student.dto';
+import { useNavigate } from 'react-router-dom';
 
-export const StudentComponent = () => {
+export const StudentList = () => {
+  const navigate = useNavigate();
+
   const REACT_APP_GOOGLE_API_KEY = 'AIzaSyDzMVLOCEoQjQes2bF0H9pc9HbzlKzOldQ';
   const REACT_APP_GOOGLE_SHEETS_ID =
     '15DO31mshPnP4OK3xeuMEm06ngda2TVgI2QgrqHPGi1M';
@@ -48,9 +51,7 @@ export const StudentComponent = () => {
   }, [data]);
 
   const showModalCreate = () => {
-    // setTodoId('');
-    // setTodoTitle('');
-    ($('#modal-create') as any).modal('show');
+    navigate('/student/create');
   };
 
   const showModalUpdate = (id: number) => {

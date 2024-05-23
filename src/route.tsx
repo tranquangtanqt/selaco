@@ -8,7 +8,8 @@ import { SampleMonacoEditorPage } from 'pages/sample/monaco-editor';
 import { SampleGoogleSheet } from 'pages/sample/google-sheet';
 import { SampleCreateContentPage } from 'pages/sample/create-content-page';
 import { SampleCRUDGoogleSheet } from 'pages/sample/crud-google-sheet';
-import { StudentComponent } from 'pages/student';
+import { StudentList } from 'pages/student';
+import { StudentCreate } from 'pages/student/create';
 
 export const RoutesRoot = () => {
   return (
@@ -16,7 +17,8 @@ export const RoutesRoot = () => {
       <MasterLayout>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/hocvien" element={<StudentComponent />} />
+          <Route path="/student" element={<StudentList />} />
+          <Route path="/student/create" element={<StudentCreate />} />
           <Route path="/sample/create-content-page" element={<SampleCreateContentPage />} />
           <Route path="/sample/content-page" element={<SampleContentPage />} />
           <Route path="/sample/monaco-editor-page" element={<SampleMonacoEditorPage />} />
