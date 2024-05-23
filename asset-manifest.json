@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/selaco/static/css/main.d1a72dce.css",
+    "main.js": "/selaco/static/js/main.b0bdf13b.js",
+    "static/media/logo.jpg": "/selaco/static/media/logo.ae3a9c5039a1d4700c44.jpg",
+    "index.html": "/selaco/index.html",
+    "main.d1a72dce.css.map": "/selaco/static/css/main.d1a72dce.css.map",
+    "main.b0bdf13b.js.map": "/selaco/static/js/main.b0bdf13b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1a72dce.css",
+    "static/js/main.b0bdf13b.js"
+  ]
+}
