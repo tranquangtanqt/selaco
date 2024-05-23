@@ -110,7 +110,7 @@ export const MasterLayout = (props: masterLayoutProps) => {
             <ul className="list-unstyled components mb-5 mt-5">
               {navbarLefts.map((navbar, key) => (
                 <li key={key} className={navbar.active ? 'active' : ''}>
-                  {navbar.children?.length > 0 ? (
+                  {navbar.children?.length > 0 && navbar.link != null ? (
                     <Fragment>
                       <Link
                         to={navbar.link}
@@ -144,12 +144,14 @@ export const MasterLayout = (props: masterLayoutProps) => {
                       </ul>
                     </Fragment>
                   ) : (
-                    <Link
-                      to={navbar.link}
-                      onClick={(e) => showDropDownLeft(e, navbar.id)}
-                    >
-                      {navbar.text}
-                    </Link>
+                    navbar.link != null && (
+                      <Link
+                        to={navbar.link}
+                        onClick={(e) => showDropDownLeft(e, navbar.id)}
+                      >
+                        {navbar.text}
+                      </Link>
+                    )
                   )}
                 </li>
               ))}
