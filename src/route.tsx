@@ -10,6 +10,7 @@ import { SampleCreateContentPage } from 'pages/sample/create-content-page';
 import { SampleCRUDGoogleSheet } from 'pages/sample/crud-google-sheet';
 import { StudentList } from 'pages/student';
 import { StudentCreate } from 'pages/student/create';
+import { StudentUpdate } from 'pages/student/update';
 
 export const RoutesRoot = () => {
   return (
@@ -19,6 +20,7 @@ export const RoutesRoot = () => {
           <Route path="/" element={<Home />} />
           <Route path="/student" element={<StudentList />} />
           <Route path="/student/create" element={<StudentCreate />} />
+          <Route path="/student/update" element={<StudentUpdate />} />
           <Route path="/sample/create-content-page" element={<SampleCreateContentPage />} />
           <Route path="/sample/content-page" element={<SampleContentPage />} />
           <Route path="/sample/monaco-editor-page" element={<SampleMonacoEditorPage />} />

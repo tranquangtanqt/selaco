@@ -1,6 +1,5 @@
 import AxiosClient from 'api/axios-client';
-import { useState, useRef, useEffect } from 'react';
-import { StudentDto } from './../dto';
+import { useState, useRef } from 'react';
 
 export const StudentCreate = () => {
   const formRef = useRef<HTMLFormElement>(null);
@@ -8,8 +7,8 @@ export const StudentCreate = () => {
   const scriptUrl =
     'https://script.google.com/macros/s/AKfycbyL50FiMvjX5fPOT-Y02u7b1-lwFKUbEPnGr40MlHzQS6TCW5N90kR30DK-0Y706E2p/exec';
 
-  const sheetUrl =
-    'https://docs.google.com/spreadsheets/d/15DO31mshPnP4OK3xeuMEm06ngda2TVgI2QgrqHPGi1M/edit#gid=0';
+  const sheetId = '15DO31mshPnP4OK3xeuMEm06ngda2TVgI2QgrqHPGi1M';
+  const sheetName = 'Danh Sach';
 
   const [loadingFlg, setLoadingFlg] = useState(false);
   const handleCreate = async (e: any) => {
@@ -33,9 +32,10 @@ export const StudentCreate = () => {
   return (
     <>
       <form ref={formRef} onSubmit={handleCreate} name="google-sheet">
-        <input type="hidden" name="sheetUrl" value={sheetUrl} />
-        {/* <input type="hidden" name="action" value="create" /> */}
-        <input type="hidden" name="action" value="findRowId" />
+        <input type="hidden" name="sheetId" value={sheetId} />
+        <input type="hidden" name="sheetName" value={sheetName} />
+        <input type="hidden" name="action" value="create" />
+        {/* <input type="hidden" name="action" value="findRowId" /> */}
         <input type="hidden" name="id" value="2" />
         <div className="row">
           <div className="col-md-6">

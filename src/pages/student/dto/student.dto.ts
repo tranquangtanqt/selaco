@@ -4,4 +4,12 @@ export class StudentDto {
   birthday: string;
   address: string;
   gender: string;
+
+  constructor() {
+    this.id = 0;
+    this.name = '';
+    this.birthday = '';
+    this.address = '';
+    this.gender = '';
+  }
 }

@@ -1,10 +1,12 @@
-import AxiosClient from 'api/axios-client';
-import { useState, useRef, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import useGoogleSheets from 'use-google-sheets';
 import { StudentDto } from './dto/student.dto';
 import { useNavigate } from 'react-router-dom';
 
 export const StudentList = () => {
+  localStorage.removeItem('student-update');
+  // localStorage.setItem("mytime", Date.now());
+
   const navigate = useNavigate();
 
   const REACT_APP_GOOGLE_API_KEY = 'AIzaSyDzMVLOCEoQjQes2bF0H9pc9HbzlKzOldQ';
@@ -42,7 +44,6 @@ export const StudentList = () => {
         const element = studentResApi[i] as StudentDto;
 
         element.id = +element.id;
-        console.log(element);
         studentDtos.push(element);
       }
 
@@ -50,26 +51,17 @@ export const StudentList = () => {
     }
   }, [data]);
 
-  const showModalCreate = () => {
+  const redirectToCreate = () => {
     navigate('/student/create');
   };
 
-  const showModalUpdate = (id: number) => {
-    console.log(id);
-  };
-  const showModalDelete = () => {
-    console.log('delete');
+  const redirectToUpdate = (item: StudentDto) => {
+    localStorage.setItem('student-update', JSON.stringify(item));
+    navigate(`/student/update`);
   };
 
   const handleDelete = (id: number) => {
     console.log(id);
-  };
-
-  const handleUpdate = (id: number) => {
-    console.log(id);
-  };
-  const handleCreate = () => {
-    console.log('Create');
   };
 
   // const formRef = useRef<HTMLFormElement>(null);
@@ -104,7 +96,7 @@ export const StudentList = () => {
         <div className="col-md-12 mb-3">
           <button
             className="btn btn-sm btn-primary float-end"
-            onClick={() => showModalCreate()}
+            onClick={() => redirectToCreate()}
           >
             Thêm
           </button>
@@ -134,7 +126,7 @@ export const StudentList = () => {
                   <td>
                     <button
                       className="btn btn-sm btn-success"
-                      onClick={() => showModalUpdate(item.id)}
+                      onClick={() => redirectToUpdate(item)}
                     >
                       Edit
                     </button>
@@ -149,57 +141,6 @@ export const StudentList = () => {
               ))}
             </tbody>
           </table>
-        </div>
-      </div>
-
-      <div
-        className="modal fade"
-        id="modal-create"
-        aria-labelledby="modal-create1"
-        aria-hidden="true"
-      >
-        <div className="modal-dialog modal-dialog-centered modal-lg">
-          <div className="modal-content">
-            <div className="modal-header">
-              <h5 className="modal-title" id="modal-create1">
-                Thêm công việc
-              </h5>
-              <input
-                type="button"
-                className="btn-close"
-                data-bs-dismiss="modal"
-                aria-label="Close"
-              />
-            </div>
-            <div className="modal-body">
-              <div>
-                <label htmlFor="task-content-create" className="form-label">
-                  Nội dung
-                </label>
-                <input
-                  type="text"
-                  className="form-control"
-                  id="task-content-create"
-                  // value={todoTitle}
-                  // onChange={(e) => setTodoTitle(e.target.value)}
-                />
-              </div>
-            </div>
-            <div className="modal-footer">
-              <input
-                type="button"
-                className="btn btn-secondary"
-                data-bs-dismiss="modal"
-                value={'Đóng'}
-              />
-              <input
-                type="button"
-                className="btn btn-primary"
-                value="Lưu"
-                // onClick={() => createTodo()}
-              />
-            </div>
-          </div>
         </div>
       </div>
     </>
